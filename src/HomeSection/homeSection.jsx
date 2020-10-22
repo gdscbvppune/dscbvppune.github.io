@@ -1,6 +1,6 @@
 import React from 'react';
 import './homeSection.css'
-import heroImage from "./heroImage.png"
+import heroImg from "./heroImage.png"
 import { Container,Row,Col,Button,Image} from 'react-bootstrap';
 
 function Home(){
@@ -18,7 +18,7 @@ function Home(){
                         <Button className="cta-button">Hack BVP</Button>
                     </Col>
                     <Col lg={6} md={12} sm={12}>
-                        <Image className="img-fluid" src={heroImage}></Image>
+                        <Image className="img-fluid" src={heroImg}></Image>
                     </Col>
                 </Row>
             </Container>
