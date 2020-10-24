@@ -1,5 +1,6 @@
 import React from 'react';
 import './HeroSection.css'; 
+import '../../HomeLeftSection.css';
 import teamImage from '../../../../Assets/Images/teamImage.png';
 import { Container,Row,Col,Button,Image} from 'react-bootstrap';
 

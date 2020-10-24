@@ -39,10 +39,11 @@ function TeamSection() {
       </div>
     </Container> */}
 
-    <Container>
+    <Container className="re-order">
                 <Row>
-                    <Col lg={6} md={12} sm={12}>
-                        <h1 className="home-header"><h1 className="section-heading">Who are <span style={{ color: "#008000" }}>we</span></h1></h1>
+                    <Col lg={6} md={12} sm={12} className="first">
+                        <h1 className="desktop-header"><h1 className="section-heading">Who are <span style={{ color: "#008000" }}>we</span></h1></h1>
+                        
                         <p className="team-para">We are a group of designers, developers, managers
                           and writers who come around the table to bring
                           a change. We love to innovate, ideate and
@@ -55,7 +56,8 @@ function TeamSection() {
                         </div>
                         
                     </Col>
-                    <Col lg={6} md={12} sm={12}>
+                    <h1 className="mobile-tab-header"><h1 className="section-heading">Who are <span style={{ color: "#008000" }}>we</span></h1></h1>
+                    <Col lg={6} md={12} sm={12} className="second">
                         <Image className="img-fluid hero-image" src={teamImage}></Image>
                     </Col>
                 </Row>

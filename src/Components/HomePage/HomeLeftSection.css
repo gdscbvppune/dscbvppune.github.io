@@ -11,6 +11,7 @@ html{
 
 .global-section{
     height: 100% !important;
+    margin-top: 2rem;
     padding:4rem 4rem 4rem 4rem !important;
 }
 
@@ -22,6 +23,7 @@ html{
 
 .section-heading{
     font-size: 70px;
+    font-weight: 600;
 }
 
 .section-description{
@@ -135,8 +137,10 @@ html{
 }
 
 .section-heading{
-    font-size: 60px;
-     text-align: center;
+    font-size: 2.5rem !important;
+    font-style: italic;
+    text-align: center;
+    font-weight: 700;
 }
 
 }

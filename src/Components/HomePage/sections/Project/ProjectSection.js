@@ -49,11 +49,12 @@ function TeamSection() {
 <Container className="text-center re-order">
                 <Row>
                     
-                    <Col lg={6} md={12} sm={12} className="first">
+                    <Col lg={6} md={12} sm={12} className="second">
+                    <h1 className="mobile-tab-header"><h1 className="section-heading">Our <span style={{ color: "#ff0000" }}>projects</span></h1></h1>
                         <Image className="img-fluid hero-image" src={teamImage}></Image>
                     </Col>
-                    <Col lg={6} md={12} sm={12} className="second">
-                        <h1 className="home-header"><h1 className="section-heading">Our <span style={{ color: "#ff0000" }}>projects</span></h1></h1>
+                    <Col lg={6} md={12} sm={12} className="first">
+                        <h1 className="desktop-header"><h1 className="section-heading">Our <span style={{ color: "#ff0000" }}>projects</span></h1></h1>
                         <p className="team-para">We are a group of designers, developers, managers and writers who come around the table to bring a change. We love to innovate, ideate and build technical solutions to common day to day life problems. We also organise webinars and workshops to inculcate a culture of technology.
                         </p>
                         <div className="align-btn">

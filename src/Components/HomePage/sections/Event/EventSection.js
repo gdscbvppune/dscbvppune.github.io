@@ -40,17 +40,18 @@ function EventSection() {
       </div>
     </Container> */}
 
-<Container className="text-center">
+<Container className="text-center re-order">
                 <Row>
-                    <Col lg={6} md={12} sm={12}>
-                        <h1 className="home-header"><h1 className="section-heading" style={{color: "#3366ff"}}>Events</h1></h1>
+                    <Col lg={6} md={12} sm={12} className="first">
+                        <h1 className="desktop-header"><h1 className="section-heading" style={{color: "#3366ff"}}>Events</h1></h1>
                         <p className="team-para">We are a group of designers, developers, managers and writers who come around the table to bring a change. We love to innovate, ideate and build technical solutions to common day to day life problems. We also organise webinars and workshops to inculcate a culture of technology.
                         </p>
                         <div className="align-btn">
                           <Button className="events-button">See our events</Button>
                         </div>
                     </Col>
-                    <Col lg={6} md={12} sm={12}>
+                    <Col lg={6} md={12} sm={12} className="Second">
+                    <h1 className="mobile-tab-header"><h1 className="section-heading" style={{color: "#3366ff"}}>Events</h1></h1>
                         <Image className="img-fluid hero-image" src={teamImage}></Image>
                     </Col>
                 </Row>

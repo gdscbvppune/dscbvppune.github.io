@@ -109,6 +109,20 @@
     text-align: left;
 }
 
+.mobile-tab-header{
+    display: none;
+}
+
+.desktop-header{
+    display: block !important;
+    font-size: 5rem;
+    font-style: normal;
+    font-weight: 700 !important;
+    line-height: 84px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
 @Media only screen and (max-width:768px){
 
     .re-order .row{
@@ -133,6 +147,11 @@
     .home-header{
         font-size: 2.8rem;
         line-height: 1;
+    }
+
+    .desktop-header{
+        display: none !important;
+        font-weight: 700 !important;
     }
     
     .home-subheader{
@@ -222,4 +241,11 @@
     .hero-image{
         margin-top: 2rem;
     }
+
+    .mobile-tab-header{
+        display:block;
+        font-size: 2.8rem;
+        line-height: 1;
+    }
+    
 }
