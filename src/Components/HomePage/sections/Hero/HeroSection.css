@@ -1,5 +1,7 @@
 .home-section{
-    padding-top: 9rem;
+    /* padding-top: 9rem; */
+    height: 100% !important;
+    padding:10rem 4rem 4rem 4rem;
 }
 
 .home-header{
@@ -37,6 +39,16 @@
     color: rgb(109, 109, 109);
 }
 
+.team-para{
+    margin-top: 2rem;
+    font-size: 1.27rem;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0em;
+    color: rgb(109, 109, 109);
+    text-align: left !important;
+}
+
 .cta-button{
     margin-top: 2rem;
     background-color: #1774FF !important;
@@ -55,33 +67,103 @@
     color: #1774ff !important;
 }
 
+
+.team-button{
+    margin-top: 2rem;
+    background-color: #008000 !important;
+    border-radius: 50px !important;
+    height:2.6rem;
+    font-size: 1.1rem !important;
+    width: 14rem;
+    font-weight: 700 !important;
+    transition: transform .2s;
+    border: none;
+}
+
+.project-button{
+    margin-top: 2rem;
+    background-color:#ff0000 !important;
+    border-radius: 50px !important;
+    height:2.6rem;
+    font-size: 1.1rem !important;
+    width: 14rem;
+    font-weight: 700 !important;
+    transition: transform .2s;
+    border: none;
+}
+
+.events-button{
+    margin-top: 2rem;
+    background-color:#3366ff!important;
+    border-radius: 50px !important;
+    height:2.6rem;
+    font-size: 1.1rem !important;
+    width: 14rem;
+    font-weight: 700 !important;
+    transition: transform .2s;
+    border: none;
+}
+
+
+.align-btn{
+    text-align: left;
+}
+
 @Media only screen and (max-width:768px){
+
+    .re-order .row{
+        display: flex;
+        display: -ms-flex;
+        flex-direction: column;
+      }
+    
+      .re-order .row .first{
+        order: 2;
+      }
+    
+      .re-order .row .second{
+        order: 1;
+      }
+
+      
     .home-section{
-        padding: 7rem 1rem 1rem 1rem;
+         padding: 5rem 1rem 1rem 1rem;
     }
     
     .home-header{
-        font-size: 3.3rem;
+        font-size: 2.8rem;
+        line-height: 1;
     }
     
     .home-subheader{
-        margin-top: 0.5rem;
-        font-size:1.8rem;
+        margin-top: 2rem;
+        font-size:1.6rem;
+        line-height: 1;
         font-style: italic;
     }
     
     .home-para{
-        margin-top: 0.5rem;
+        margin-top: 2rem;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 500;
+        text-align: left !important;
+        letter-spacing: 0em;
+        color: rgb(109, 109, 109);
+    }
+
+    .team-para{
+        margin-top: 2rem;
         font-size: 1rem;
         font-style: normal;
         font-weight: 500;
         letter-spacing: 0em;
-        text-align: left;
         color: rgb(109, 109, 109);
+        text-align: center !important;
     }
     
     .cta-button{
-        margin-top: 0.5rem;
+        margin-top: 2rem;
         background-color: #1774FF !important;
         border-radius: 50px !important;
         height:2.6rem;
@@ -96,5 +178,48 @@
         background-color: white !important;
         border-color: #1774ff !important;
         color: #1774ff !important;
+    }
+
+    .team-button{
+        margin-top: 2rem;
+        background-color: #008000 !important;
+        border-radius: 50px !important;
+        height:2.6rem;
+        font-size: 1.1rem !important;
+        width: 14rem;
+        font-weight: 700 !important;
+        transition: transform .2s;
+    }
+
+    .project-button{
+        margin-top: 2rem;
+        background-color:#ff0000 !important;
+        border-radius: 50px !important;
+        height:2.6rem;
+        font-size: 1.1rem !important;
+        border: none;
+        width: 14rem;
+        font-weight: 700 !important;
+        transition: transform .2s;
+    }
+
+    .events-button{
+        margin-top: 2rem;
+        background-color:#3366ff!important;
+        border-radius: 50px !important;
+        height:2.6rem;
+        font-size: 1.1rem !important;
+        border: none;
+        width: 14rem;
+        font-weight: 700 !important;
+        transition: transform .2s;
+    }
+
+    .align-btn{
+        text-align: center;
+    }
+
+    .hero-image{
+        margin-top: 2rem;
     }
 }

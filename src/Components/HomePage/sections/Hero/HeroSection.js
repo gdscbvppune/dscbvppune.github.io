@@ -18,7 +18,7 @@ function Home(){
                         <Button className="cta-button">Hack BVP</Button>
                     </Col>
                     <Col lg={6} md={12} sm={12}>
-                        <Image className="img-fluid" src={teamImage}></Image>
+                        <Image className="img-fluid hero-image" src={teamImage}></Image>
                     </Col>
                 </Row>
             </Container>

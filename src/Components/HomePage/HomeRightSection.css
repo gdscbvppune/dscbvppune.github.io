@@ -10,8 +10,8 @@ html{
 }
 
 .right-section{
-    padding: 150px 90px 0px 10px;
-    height: 100vh;
+    /* padding: 150px 90px 0px 10px; */
+    height: 100%;
 }
 
 .right-section-heading{

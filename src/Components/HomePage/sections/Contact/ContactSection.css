@@ -9,9 +9,18 @@ html{
     width: 100%;
 }
 
+.contact-section{
+    height:100vh;
+}
+
+.global-section{
+    height: 100% !important;
+    padding:5rem 4rem 5rem 4rem;
+}
+
 .contact-right-section{
-    padding: 150px 90px 0px 10px;
-    height: 100vh;
+    /* padding: 150px 90px 0px 10px; */
+    height: 100%;
 }
 
 .right-section-heading{
