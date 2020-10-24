@@ -1,11 +1,6 @@
-.header{
-    /* position: relative; */
+.head{
     width: 100%;
     bottom: 0;
-    font-family: "Google Sans";
-    /* padding: 16px 0; */
-    /* border-top: 1px solid #15171c; */
-    /* background-color: rgb(172, 127, 44); */
 }
 .App-logo{
     height: 7vmin;
@@ -32,7 +27,6 @@
     font-style: normal;
     font-weight: 700;
     line-height: 27.9pxpx;
-    font-family: "Google Sans";
     letter-spacing: 0em;
     text-align: right;
     padding-right: 10px;
@@ -48,7 +42,6 @@
     line-height: 20px;
     letter-spacing: 0em;
     text-align: right;
-    font-family: "Google Sans";
     color: #838383;
     /* margin-top: 2rem; */
 }

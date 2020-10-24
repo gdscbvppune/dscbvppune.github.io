@@ -3,6 +3,7 @@
     padding-top: 60px;
     position: absolute;
     left: 10%;
+    height: min-content;
 }
 .column{
       text-align: right;
@@ -12,13 +13,11 @@
   }
 
 
-.subheader{
+.sub{
     font-size: 26px;
-    font-style: normal;
     font-weight: 700;
     line-height: 20px;
     letter-spacing: 0em;
-    font-family: "Google Sans";
     color: #838383;
     padding-top: 16px;
 }

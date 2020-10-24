@@ -6,7 +6,7 @@ import { Container,Row,Col,Button,Image} from 'react-bootstrap';
 class Header extends React.Component{
     render(){
         return(
-            <div className="header">
+            <div className="head">
                     <Row className="row">
                         <img src={logoPng}  className="App-logo" alt="logo" />
 
