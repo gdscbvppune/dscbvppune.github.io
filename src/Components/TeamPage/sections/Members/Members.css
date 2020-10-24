@@ -1,0 +1,34 @@
+  
+.members-container{
+    padding-top: 336px;
+    position: absolute;
+    left: 10%;
+}
+.column{
+      text-align: right;
+      padding-top: 0px;
+      width: fit-content;
+      height: min-content;
+  }
+
+
+.subheader{
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    font-family: "Google Sans";
+    color: #838383;
+    padding-top: 16px;
+}
+
+.home{
+    font-size: 69px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 84px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
