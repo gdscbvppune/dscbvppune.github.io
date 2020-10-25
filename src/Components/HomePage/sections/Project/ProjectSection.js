@@ -54,7 +54,7 @@ function TeamSection() {
                         <Image className="img-fluid hero-image" src={teamImage}></Image>
                     </Col>
                     <Col lg={6} md={12} sm={12} className="first">
-                        <h1 className="desktop-header"><h1 className="section-heading">Our <span style={{ color: "#ff0000" }}>projects</span></h1></h1>
+                        <h1 className="desktop-header team-header"><h1 className="section-heading">Our <span style={{ color: "#ff0000" }}>projects</span></h1></h1>
                         <p className="team-para">We are a group of designers, developers, managers and writers who come around the table to bring a change. We love to innovate, ideate and build technical solutions to common day to day life problems. We also organise webinars and workshops to inculcate a culture of technology.
                         </p>
                         <div className="align-btn">

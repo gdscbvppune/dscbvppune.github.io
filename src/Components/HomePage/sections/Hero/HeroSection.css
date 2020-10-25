@@ -36,7 +36,8 @@
     font-weight: 500;
     letter-spacing: 0em;
     text-align: left;
-    color: rgb(109, 109, 109);
+    /* color: rgb(109, 109, 109); */
+    color:#2d2d2d;
 }
 
 .team-para{
@@ -45,16 +46,16 @@
     font-style: normal;
     font-weight: 500;
     letter-spacing: 0em;
-    color: rgb(109, 109, 109);
+    color:#2d2d2d;
     text-align: left !important;
 }
 
 .cta-button{
     margin-top: 2rem;
     background-color: #1774FF !important;
-    border-radius: 50px !important;
-    height:2.6rem;
+    border-radius: 60px !important;
     font-size: 1.1rem !important;
+    height:3.3rem;
     width: 14rem;
     font-weight: 700 !important;
     transition: transform .2s;
@@ -72,38 +73,58 @@
     margin-top: 2rem;
     background-color: #008000 !important;
     border-radius: 50px !important;
-    height:2.6rem;
+    height:3.5rem;
     font-size: 1.1rem !important;
     width: 14rem;
     font-weight: 700 !important;
     transition: transform .2s;
-    border: none;
+    border-color: #008000;
+}
+
+.team-button:hover{
+    transform: scale(1.1);
+    background-color: white !important;
+    border-color: #008000 !important;
+    color: #008000 !important;
 }
 
 .project-button{
     margin-top: 2rem;
     background-color:#ff0000 !important;
     border-radius: 50px !important;
-    height:2.6rem;
+    height:3.5rem;
     font-size: 1.1rem !important;
     width: 14rem;
     font-weight: 700 !important;
     transition: transform .2s;
-    border: none;
+    border-color: #ff0000;
+}
+
+.project-button:hover{
+    transform: scale(1.1);
+    background-color: white !important;
+    border-color: #ff0000 !important;
+    color: #ff0000 !important;
 }
 
 .events-button{
     margin-top: 2rem;
-    background-color:#3366ff!important;
+    background-color:#F9BB08!important;
     border-radius: 50px !important;
-    height:2.6rem;
+    height:3.5rem;
     font-size: 1.1rem !important;
     width: 14rem;
     font-weight: 700 !important;
     transition: transform .2s;
-    border: none;
+    border-color: #F9BB08;
 }
 
+.events-button:hover{
+    transform: scale(1.1);
+    background-color: white !important;
+    border-color: #F9BB08 !important;
+    color: #F9BB08 !important;
+}
 
 .align-btn{
     text-align: left;
@@ -185,7 +206,7 @@
         margin-top: 2rem;
         background-color: #1774FF !important;
         border-radius: 50px !important;
-        height:2.6rem;
+        height:3.5rem;
         font-size: 1.1rem !important;
         width: 14rem;
         font-weight: 700 !important;
@@ -203,7 +224,7 @@
         margin-top: 2rem;
         background-color: #008000 !important;
         border-radius: 50px !important;
-        height:2.6rem;
+        height:3.5rem;
         font-size: 1.1rem !important;
         width: 14rem;
         font-weight: 700 !important;
@@ -214,7 +235,7 @@
         margin-top: 2rem;
         background-color:#ff0000 !important;
         border-radius: 50px !important;
-        height:2.6rem;
+        height:3.5rem;
         font-size: 1.1rem !important;
         border: none;
         width: 14rem;
@@ -226,7 +247,7 @@
         margin-top: 2rem;
         background-color:#3366ff!important;
         border-radius: 50px !important;
-        height:2.6rem;
+        height:3.5rem;
         font-size: 1.1rem !important;
         border: none;
         width: 14rem;

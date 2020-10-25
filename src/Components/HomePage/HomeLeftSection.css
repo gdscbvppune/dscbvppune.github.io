@@ -11,8 +11,11 @@ html{
 
 .global-section{
     height: 100% !important;
-    margin-top: 2rem;
     padding:4rem 4rem 4rem 4rem !important;
+}
+
+.global-class{
+    margin-top: 4%;
 }
 
 .section{
@@ -106,6 +109,7 @@ html{
 @media only screen and (max-width: 768px){
 .global-section{
     height: 100% !important;
+    margin-top: 2rem;
     padding:3rem 1rem 1rem 1rem !important;
 }
 
