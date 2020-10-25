@@ -11,8 +11,8 @@ class Header extends React.Component{
                         <img src={logoPng}  className="App-logo" alt="logo" />
 
                         <Col className="column">
-                         <h1 className="home-header">Developer Student Clubs</h1>
-                        <h2 className="home-subheader">
+                         <h1 className="home-head">Developer Student Clubs</h1>
+                        <h2 className="home-subhead">
                         Bharati Vidyapeeth Deemed University College of Engineering Pune
                         </h2>
                         </Col>

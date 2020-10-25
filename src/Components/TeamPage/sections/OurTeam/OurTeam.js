@@ -7,7 +7,7 @@ class OurTeam extends React.Component{
         return(
             <div className="container">
                 <Col className="text-left">
-                  <h1 className="home">Our <font className="there-style">Team</font></h1>                        
+                  <h1 className="home">Our <font className="there-text-style">Team</font></h1>                        
                   <h1 className="sub"> “Talent wins games, but teamwork and intelligence win championships”</h1>                        
                 </Col>
             </div>

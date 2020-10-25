@@ -22,7 +22,7 @@
       width: fit-content;
       height: min-content;
   }
-.home-header{
+.home-head{
     font-size: 23px;
     font-style: normal;
     font-weight: 700;
@@ -35,7 +35,7 @@
 
 }
 
-.home-subheader{
+.home-subhead{
     font-size: 1rem;
     font-style: normal;
     font-weight: 700;
