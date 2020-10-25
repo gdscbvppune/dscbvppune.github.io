@@ -1,0 +1,464 @@
+{
+  "details": {
+    "details": {
+      "becomeMemberURL": "",
+      "instagram": "https://www.instagram.com/dscbvppune",
+      "description": "Developer Student Clubs (DSC BVP Pune) is a Google Developers program for university students to learn mobile and web development skills. The clubs is open to any student, ranging from novice developers who are just starting, to advanced developers who want to further their skills. The clubs is intended as a space for students to try out new ideas and collaborate to solve mobile and web development problems.",
+      "tags": [
+        "dscbvppune",
+        "dscindia",
+        "dsc"
+      ],
+      "coc": [
+        {
+          "name": "Be collaborative",
+          "des": "Work together! We can learn a lot from each other. Share knowledge, and help each other out."
+        },
+        {
+          "name": "Be nice",
+          "des": "We're all part of the same community, so be friendly, welcoming, and generally a nice person. Be someone that other people want to be around."
+        },
+        {
+          "name": "Be respectful and constructive",
+          "des": "Remember to be respectful and constructive with your communication to fellow members. Don't get into flamewars, make personal attacks, vent, or rant unconstructively. Everyone should take responsibility for the community and take the initiative to diffuse tension and stop a negative thread as early as possible."
+        },
+        {
+          "des": "Join in on discussions, show up for in-person meetings regularly, offer feedback, and help implement that feedback.",
+          "name": "Participate"
+        },
+        {
+          "des": "If you have some form of responsibility in your community, be aware of your own constraints. If you know that a new job or personal situation will limit your time, find someone who can take over for you and transfer the relevant information (contacts, passwords, etc.) for a smooth transition.",
+          "name": "Step down considerately"
+        },
+        {
+          "des": "Don’t send messages to a big list that only need to go to one person. Keep off topic conversations to a minimum. Don’t be spammy by advertising or promoting personal projects which are off topic.",
+          "name": "Basic etiquette for online discussions"
+        }
+      ],
+      "cocInfo": "When you join our programs, you’re joining a community. And like any growing community, a few ground rules about expected behavior are good for everyone. These guidelines cover both online (e.g. mailing lists, social channels) and offline (e.g. in-person meetups) behavior. Violations of this code of conduct can result in members being removed from the program. Use your best judgement, and if you’d like more clarity or have questions feel free to reach out.",
+      "twitter": "https://twitter.com/dscbvppune",
+      "name": "DSC BVP Pune",
+      "socials": [
+        {
+          "link": "https://twitter.com/dscbvppune",
+          "name": "Twitter",
+          "icon": "fab fa-twitter"
+        },
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/dscbvppune",
+          "icon": "fab fa-instagram"
+        },
+        {
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/company/developer-student-clubs-bvp-pune/",
+          "icon": "fab fa-linkedin"
+        },
+        {
+          "icon": "fab fa-github",
+          "name": "GitHub",
+          "link": "https://github.com/dscbvppune"
+        }
+      ],
+      "github": "https://github.com/dscbvppune",
+      "email": "dscbvppune@gmail.com",
+      "aboutDSCLink": "https://developers.google.com/community/dsc",
+      "about": "Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.",
+      "shortDescription": "A Google Developers program for university students, with the aim to help students build their development skills and knowledge."
+    },
+    "footerData": {
+      "footerEndSession": [
+        {
+          "link": "/about",
+          "name": "Code of Conduct"
+        }
+      ],
+      "devConsole": [
+        {
+          "name": "Google API Console",
+          "link": "https://console.developers.google.com/"
+        },
+        {
+          "name": "GCP Console",
+          "link": "https://console.cloud.google.com/"
+        },
+        {
+          "name": "Firebase Console",
+          "link": "https://console.firebase.google.com/"
+        }
+      ],
+      "aboutSession": [
+        {
+          "link": "/",
+          "name": "DSC BVP Pune"
+        },
+        {
+          "link": "https://developers.google.com/programs/community/dsc/",
+          "name": "Developer Student Clubs"
+        },
+        {
+          "name": "Google Developers Group",
+          "link": "https://developers.google.com/programs/community/gdg/"
+        },
+        {
+          "name": "Women Techmakers",
+          "link": "https://www.womentechmakers.com/"
+        },
+        {
+          "link": "https://www.github.com/dscbvppune/",
+          "name": "Become a member"
+        }
+      ],
+      "resources": [
+        {
+          "name": "Become a sponsor",
+          "link": "mailto:dscbvppune@gmail.com"
+        },
+        {
+          "name": "Become a speaker",
+          "link": "mailto:dscbvppune@gmail.com"
+        }
+      ]
+    }
+  },
+  "events": {
+    "2poo6CiTaRm2GWBZHluW": {
+      "venue": "W - 401, College Of Engineering Bharati Vidyapeeth Pune",
+      "eventPosterURL": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/events%2FGetting%20started%20with%20PHP?alt=media&token=da0a1a3e-fc8c-436e-ae1c-27ec622f6a5d",
+      "featureEvent": "false",
+      "title": "Getting started with PHP",
+      "icon": "GS",
+      "desc": "Google has a vision to help make India a global hub of high-quality developers. Developer Student Clubs (DSC)BVP 🖥 is a Google Developers program for university📕 students to learn mobile and web development skills. So join us this Saturday for a session based on PHP.",
+      "time": "1:30 PM - 3:30 PM",
+      "speaker": "Aayushi Gupta",
+      "date": "2019-09-14",
+      "link": "http://bit.ly/workingwithphp"
+    },
+    "8VdfpYUiBtHJHx2amFHI": {
+      "eventPosterURL": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/events%2FLinkedIn%20101?alt=media&token=1677446b-207d-4d5d-a401-368957ad0e8b",
+      "date": "2020-07-11",
+      "venue": "Webinar",
+      "link": "https://forms.gle/M2R1dJAY6FGUgBkh6",
+      "time": "5:00PM - 6:00PM",
+      "title": "LinkedIn 101",
+      "desc": "Hello World!\nDSC BVP Pune is organising a webinar on the topic \"LinkedIn 101\". Manoj 👨‍💻, a DSC Lead of SKCT and UX intern at Ajira Tech, would be the speaker 🗣️for the same😇. \"A well written LinkedIn profile may give you credibility and will establish you as a trustworthy potential employee\".\nThe webinar is scheduled for 11th July 2020 at 5:00PM 🕔.",
+      "speaker": "Manoj",
+      "icon": "L1",
+      "featureEvent": "false"
+    },
+    "Az35a0ERhWWXgtpPYnjS": {
+      "eventPosterURL": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/events%2FVideo%20Surveillance%20and%20Deep%20Learning?alt=media&token=a970492e-1461-4361-9cfa-e15d957dccd6",
+      "speaker": "Navin Manasvi",
+      "date": "2020-06-26",
+      "venue": "Webinar",
+      "desc": "Hello World!\nDSC BVP Pune is organising a webinar on the topic \"Video Surveillance and Deep Learning\". Navin Manaswi, a Google Developer Expert in Machine Learning, would be the speaker for the same. The webinar is scheduled for 26th June 2020 and is split into two sessions of 45 minutes, 4:00PM to 4:45PM and 5:15PM to 6:00PM. Register here https://forms.gle/kSbuxAgCJ5vEDs3k7\n\nThose who attend the session would be provided with certificates of the same.",
+      "featureEvent": "false",
+      "link": "https://forms.gle/kSbuxAgCJ5vEDs3k7",
+      "time": "4:00PM - 6:00PM",
+      "title": "Video Surveillance and Deep Learning",
+      "icon": "VS"
+    },
+    "MkanhL0FpQjSaVB3SQJI": {
+      "icon": "IS",
+      "eventPosterURL": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/events%2FInfo%20Session?alt=media&token=f627a835-1f66-43d8-9645-bd5a904bedab",
+      "speaker": "Dewansh Rawat",
+      "date": "2020-09-23",
+      "venue": "Webinar",
+      "featureEvent": "true",
+      "time": "5:30PM - 6:15PM",
+      "title": "Info Session",
+      "desc": "Hello guys 👋🏻\n\nDSC BVP Pune presents to you Info Session ✨\n\nJoin us on 23rd September 2020, as we go on a session to talk about what a Developer Student Clubs is. This event focuses on knowing more about Developer Students Club and its contribution to our campus and society. We will also talk about why you should join the Developer Student Clubs and how it can be beneficial for you.",
+      "link": "https://dsc.community.dev/events/details/developer-student-clubs-bharati-vidyapeeth-deemed-university-college-of-engineering-pune-presents-info-session-2020-1/#/"
+    },
+    "MqENWNjRloDOppXPWA4m": {
+      "time": "4:30 PM - 7:30 PM",
+      "desc": "Love Flutter?  Want to know about the latest development for Flutter? Then wait no more!  We at DSC BVP Pune will be hosting a Flutter Interact Viewing Party on 13 th December,  and we would love to see you there!  ",
+      "icon": "FI",
+      "venue": "Computer Center, College Of Engineering Library, Bharati Vidyapeeth Pune",
+      "eventPosterURL": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/events%2FFlutter%20Interact%20?alt=media&token=e2e22c82-0213-4a4d-b1b2-8f2b5be42c01",
+      "speaker": "Dewansh Rawat, Sarthak Pol",
+      "date": "2019-12-13",
+      "featureEvent": "false",
+      "title": "Flutter Interact ",
+      "link": "https://dscbvppune.typeform.com/to/V1tYQV"
+    },
+    "WYoMK7PwUFBnGEdwmtwd": {
+      "featureEvent": "false",
+      "time": "5:00PM - 6:00PM",
+      "title": "Python Webinar",
+      "icon": "PW",
+      "eventPosterURL": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/events%2FPython%20Webinar?alt=media&token=fd1a1445-7d66-401c-9e5e-1088e0c29f61",
+      "speaker": "Vishnu Varthan Rao",
+      "date": "2020-08-02",
+      "desc": "Hello World!\nDSC BVP Pune is organising a webinar on *Python*. Vishnu Varthan Rao 👨‍💻, a DSC Member of _SKCT_, Coordinator at _Kaggle Coimbatore_ and Student partner at _Microsoft_, would be the speaker for the same😎. \"Python is used successfully in thousands of real-world business applications around the world, including many large and mission critical systems\".😇\nThe webinar is scheduled for *2nd Aug 2020 at 5:00PM* 🕔.",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScGHQeaR8AvsEP7OeGp_1G1tiDZkJ9i_uGPK2MYAJz_51ocSw/viewform?usp=sf_link",
+      "venue": "Webinar"
+    },
+    "auZv8eUT9StqxZBI8qaM": {
+      "eventPosterURL": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/events%2FHands%20on%20with%20Flutter?alt=media&token=26f68e43-2b68-4bdd-8a49-64fcc906ba00",
+      "time": "1:30 PM - 4:00 PM",
+      "link": "http://bit.ly/handsonwithflutter",
+      "title": "Hands on with Flutter",
+      "speaker": "Dewansh Rawat",
+      "featureEvent": "false",
+      "icon": "HO",
+      "venue": "Computer Center, College Of Engineering Library, Bharati Vidyapeeth Pune",
+      "desc": "Developer Student Clubs (DSC)BVP 🖥 is a Google Developers program for university 📚students to learn mobile and web development skills. The clubs are open to any student, ranging from novice developers⌨ who are just starting, to advanced developers who want to further their skills😉. The clubs are intended as space for students to try out new ideas 💡and collaborate to solve mobile and web development problems.",
+      "date": "2019-08-24"
+    },
+    "crofrML9Czzq6okDWnQh": {
+      "eventPosterURL": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/events%2FDevweek%20Frontend%20101?alt=media&token=e9ce1d95-1ea5-418a-b575-ba7a8c37105e",
+      "time": "4:30pm - 6:30pm",
+      "title": "Devweek Backend 101",
+      "featureEvent": "false",
+      "desc": "Hello, world! We at DSC BVP, Pune will be conducting DevWeek💻 from the 10th till the 14th of February🗓.Two tracks, related to Frontend and Backend Development will be conducted simultaneously within a span of 5 days • Frontend 101: Basics of Web Development🕸 and Flutter• Backend 101: Discover the world of server-side development and the importance of security",
+      "link": "bit.ly/devweek-dsc",
+      "venue": "AV Hall, College Of Engineering",
+      "speaker": "Nishchay Verma, Dewansh Rawat, Vikas Sharma, Vansh Basin",
+      "date": "2020-02-10",
+      "icon": "DB"
+    },
+    "iT6fsj0pGui9juJEBSlh": {
+      "link": "https://forms.gle/4kmCnU5JpcxWHSML7",
+      "time": "1:30 PM - 3:30 PM",
+      "desc": "The Developer Student Clubs cordially invites you to the Data Structures in C workshop 📚.\nIn programing, a Data Structure is a data organization, management, and storage format that enables efficient access and modification🎓. So join us this Saturday for🎉 This session will be on \"DATA STRUCTURE IN C\". Prerequiste are just basic knowledge in C programming",
+      "date": "2019-09-21",
+      "featureEvent": "false",
+      "eventPosterURL": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/events%2FC%20and%20Data%20Structures?alt=media&token=881c6eea-76a9-4094-9260-05a4fc57c98f",
+      "title": "C and Data Structures",
+      "icon": "CA",
+      "venue": "W - 401, College Of Engineering Bharati Vidyapeeth Pune",
+      "speaker": "Viplav Anand"
+    },
+    "iizXf4apl5uaHcWAbXlQ": {
+      "icon": "HI",
+      "link": "https://www.eventbrite.com/e/hacktoberfest-in-bharati-vidyapeeth-pune-tickets-75282250237#",
+      "eventPosterURL": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/events%2FHacktoberfest%20In%20Bharati%20Vidyapeeth%20Pune?alt=media&token=3a06cd0e-c873-4372-a40b-8bec235920e3",
+      "featureEvent": "false",
+      "date": "2019-10-07",
+      "time": "4:00 PM - 7:00 PM",
+      "venue": "Computer Center, College Of Engineering Library, Bharati Vidyapeeth Pune",
+      "speaker": "Dewansh Rawat",
+      "desc": "Help drive the growth of open source and make positive contributions by joining us tomorrow at our Hacktoberfest Meetup!",
+      "title": "Hacktoberfest In Bharati Vidyapeeth Pune"
+    },
+    "ivqUJGV5AcQyCnIb9LlQ": {
+      "icon": "DF",
+      "featureEvent": "false",
+      "time": "4:30pm - 6:30pm",
+      "date": "2020-02-10",
+      "title": "Devweek Frontend 101",
+      "desc": "Hello, world! We at DSC BVP, Pune will be conducting DevWeek💻 from the 10th till the 14th of February🗓.Two tracks, related to Frontend and Backend Development will be conducted simultaneously within a span of 5 days.• Frontend 101: Basics of Web Development🕸 and Flutter• Backend 101: Discover the world of server-side development and the importance of security",
+      "eventPosterURL": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/events%2FDevweek%20Frontend%20101?alt=media&token=e9ce1d95-1ea5-418a-b575-ba7a8c37105e",
+      "venue": "AV Hall, College Of Engineering",
+      "link": "bit.ly/devweek-dsc",
+      "speaker": "Nishchay Verma, Dewansh Rawat, Vikas Sharma, Vansh Basin"
+    },
+    "v9fwuryTMwbo6vvAYcSB": {
+      "featureEvent": "false",
+      "title": "Explore ML",
+      "venue": "Computer Center, College Of Engineering Library, Bharati Vidyapeeth Pune",
+      "speaker": "Satwik Dalvi",
+      "desc": "Learn with us, learn with Google AI! The Developer Students Club at BVUCOE, Pune is back with another event... ML Fest '20 Walk through the basics of Machine Learning (Yes, we mean the mathematics too📈📊), along with the hands-on sessions💻, and flaunt your newly developed skills with a Google Certified 'Explore ML' certificate!📜",
+      "date": "2020-01-10",
+      "time": "4:30 PM - 6:30 PM",
+      "icon": "EM",
+      "eventPosterURL": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/events%2FExplore%20ML?alt=media&token=80811335-1a28-4d58-abe3-8057db6e095a",
+      "link": "http://bit.ly/exploreml-dsc-pws"
+    },
+    "ywmYMKjqVVayf1MbE75n": {
+      "venue": "W - 401, College Of Engineering Bharati Vidyapeeth Pune",
+      "icon": "LC",
+      "time": "1:30 PM - 3:30 PM",
+      "date": "2019-09-07",
+      "desc": "Open-source software and technologies 🖥are a leading indicator of where companies📈 are investing resources for technology development. Developer students club ⌨is also the part of this which emerges from the Tech giant Google. Where we focus on various technological developments.\nSo join us this Saturday for the Shree-Ganesh🎉 of the open-source that is Linux. This session will be on \"Linux Components and Shell scripting\". Prerequisites are nothing just come and learn.",
+      "speaker": "Anmol Karn",
+      "title": "Linux Components And Shell Scripting",
+      "featureEvent": "false",
+      "eventPosterURL": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/events%2FLinux%20Components%20And%20Shell%20Scripting?alt=media&token=fca4bed6-e128-4ce6-b5af-55beca3caf6d",
+      "link": "https://anmolkarn.typeform.com/to/eB02Tm"
+    }
+  },
+  "teams": {
+    "0T0kSNr9Iulqbh51gWg6": {
+      "name": "Priyen Gami",
+      "github": "",
+      "linkedin": "",
+      "team": "Core Team",
+      "id": "9",
+      "website": "",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FPriyen%20Gami?alt=media&token=0dcaac16-8848-4935-85e1-422b6e90d5ed",
+      "instagram": "",
+      "title": "Designing Team Lead",
+      "twitter": ""
+    },
+    "0jSNVJEknxWEuWA2ZPbA": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "team": "Core Team",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FAnmol%20Karn?alt=media&token=fba8d135-cde3-46d6-a0e6-990b57780e59",
+      "id": "1",
+      "instagram": "",
+      "website": "",
+      "name": "Anmol Karn",
+      "title": "Technical Team Lead"
+    },
+    "5vlLin8DHjRika01zG3H": {
+      "id": "6",
+      "website": "",
+      "linkedin": "",
+      "instagram": "",
+      "twitter": "",
+      "title": "Web Dev Lead",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FNishchay%20Verma?alt=media&token=62c8bf30-7c96-48f2-badc-94bff391f2ea",
+      "team": "Core Team",
+      "github": "",
+      "name": "Nishchay Verma"
+    },
+    "6ojKycJbIeGaea83cELH": {
+      "id": "14",
+      "website": "",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FSanskar%20Gupta?alt=media&token=ef98d935-0d4c-497a-a1b0-cb2b0e10709f",
+      "title": "Management Team Lead",
+      "twitter": "",
+      "github": "",
+      "team": "Core Team",
+      "instagram": "",
+      "linkedin": "",
+      "name": "Sanskar Gupta"
+    },
+    "DEgk7ObEKUW3yeQtq8eQ": {
+      "id": "4",
+      "name": "Vikas Sharma",
+      "title": "Ethical Hacking Lead",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FVikas%20Sharma?alt=media&token=9b40e753-ea4e-46d5-b777-5d7591201b82",
+      "linkedin": "",
+      "twitter": "",
+      "website": "",
+      "team": "Core Team",
+      "github": "",
+      "instagram": ""
+    },
+    "QvYQwFulArJP7i9McYIL": {
+      "instagram": "",
+      "id": "13",
+      "website": "",
+      "linkedin": "",
+      "name": "Viplav Anand",
+      "github": "",
+      "team": "Core Team",
+      "twitter": "",
+      "title": "Management Team Lead",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FViplav%20Anand?alt=media&token=9a0ba21e-e9fd-4bb8-874a-5ed4f1c71fea"
+    },
+    "UHoIVXIB2c0Wi0VVjJNO": {
+      "twitter": "",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FSparsh%20Tandon?alt=media&token=7b5e4d26-d6e8-42ce-a973-918f93e418a5",
+      "website": "",
+      "title": "Web Dev Lead",
+      "instagram": "",
+      "name": "Sparsh Tandon",
+      "github": "",
+      "id": "5",
+      "team": "Core Team",
+      "linkedin": ""
+    },
+    "V4g8otDQOe7LD0IKQaTd": {
+      "title": "Content Team Lead",
+      "team": "Core Team",
+      "name": "Satwik Dalvi",
+      "twitter": "https://twitter.com/7wikd",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FSatwik?alt=media&token=9c8e49b1-2e8a-4b06-b494-cbb21a6085b5",
+      "linkedin": "https://www.linkedin.com/in/7wikd/",
+      "github": "https://github.com/7wikd",
+      "instagram": "https://www.instagram.com/7wikd/",
+      "id": "10",
+      "website": "https://satwikdalvi.co/"
+    },
+    "VreiU1MP9tUdAH8TbhCh": {
+      "id": "8",
+      "twitter": "",
+      "team": "Core Team",
+      "instagram": "",
+      "title": "Designing Team Lead",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FAbhishek%20Mallick?alt=media&token=4794f31d-6dff-423e-8ea5-866852d8eb91",
+      "name": "Abhishek Mallick",
+      "linkedin": "",
+      "github": "",
+      "website": ""
+    },
+    "W7NmOUnHMztCuaUt5IMB": {
+      "name": "Alok j Kashyap",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FAlok%20j%20Kashyap?alt=media&token=50976922-b95f-4284-9f4c-3a552ca4983a",
+      "id": "7",
+      "team": "Core Team",
+      "title": "UI UX Lead",
+      "twitter": "",
+      "linkedin": "",
+      "website": "",
+      "github": "",
+      "instagram": ""
+    },
+    "exwyA0BTAohdAtasjvwh": {
+      "title": "Management Team Lead",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FPratham?alt=media&token=4e06a3bd-e4aa-4c92-aafd-c40c00f87e94",
+      "id": "12",
+      "name": "Pratham Khandelwal",
+      "team": "Core Team",
+      "twitter": "",
+      "linkedin": "",
+      "github": "",
+      "website": "",
+      "instagram": ""
+    },
+    "f9NZHstezdQ4zvfRJuE6": {
+      "name": "Dewansh Rawat",
+      "title": "Lead",
+      "instagram": "https://instagram.com/dewanshrawat15",
+      "website": "https://dewanshrawat.tech",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FDewansh%20Rawat?alt=media&token=6593a7c5-5c37-476f-ad8f-c1a1ba3589f9",
+      "team": "Core Team",
+      "github": "https://github.com/dewanshrawat15",
+      "linkedin": "https://linkedin.com/in/dewanshrawat15",
+      "id": "0",
+      "twitter": "https://twitter.com/dewanshrawat15"
+    },
+    "gmwYltYbFmAINE7tMijm": {
+      "team": "Core Team",
+      "linkedin": "",
+      "instagram": "http://instagram.com/aayushigupta108/",
+      "name": "Aayushi Gupta",
+      "id": "2",
+      "twitter": "",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FAayushi%20Gupta?alt=media&token=bfb80d98-efb7-4fa1-a049-381a381a5727",
+      "website": "",
+      "title": "App Dev Lead",
+      "github": "https://github.com/aayushigupt"
+    },
+    "iRe0HQ5Ue9mEGPfHDqhC": {
+      "name": "Nandini Sahni",
+      "title": "Content Team Lead",
+      "twitter": "",
+      "website": "",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FNandini%20Sahni?alt=media&token=4bfc5485-fb64-43ea-9f27-8a098712c5da",
+      "linkedin": "",
+      "id": "11",
+      "github": "",
+      "instagram": "",
+      "team": "Core Team"
+    },
+    "joOQSUFm07M7WbkO076E": {
+      "name": "Vansh Bhasin",
+      "website": "http://vanshbhasin157.github.io/",
+      "instagram": "https://instagram.com/vanshbhasin157",
+      "twitter": "https://twitter.com/VanshBhasin19",
+      "team": "Core Team",
+      "linkedin": "https://www.linkedin.com/in/vanshbhasin157",
+      "id": "3",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FVansh%20Bhasin?alt=media&token=04f2213d-cb46-4b10-b368-bed67845b826",
+      "title": "Backend Dev Lead",
+      "github": "https://github.com/vanshbhasin157"
+    }
+  }
+}
