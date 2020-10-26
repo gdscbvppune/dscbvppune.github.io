@@ -1,26 +1,20 @@
-.head{
-    width: 99%;
-    bottom: 0;
-}
 .App-logo{
-    height: 7vmin;
     pointer-events: none;
-    padding-left: 2.5%;
-    padding-top: 1%;
-    /* background-color: coral; */
+    padding-top: 10%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 25%;
   }
-  .row{
-      /* background-color: rgb(208, 212, 146); */
-      align-content: space-between;
+  .my-row{
+      align-content: flex-start;
+      width: auto;
   }
-  
-  .column{
-      /* align-items: baseline; */
+  .my-column-1{
+      background-color: brown;
+
+  }
+  .my-column-2{
       text-align: right;
-      /* background-color: darkgoldenrod; */
-      padding-top: 0px;
-      width: fit-content;
-      height: min-content;
   }
 .home-head{
     font-size: 23px;
@@ -43,5 +37,4 @@
     letter-spacing: 0em;
     text-align: right;
     color: #838383;
-    /* margin-top: 2rem; */
 }

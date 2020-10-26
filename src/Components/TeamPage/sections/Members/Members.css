@@ -1,15 +1,9 @@
   
 .members-container{
-    /* padding-top: 0%; */
-    position: absolute;
-    left: 10%;
-    top: 250pt;
-    bottom: 0%;
-    right: 10%;
-    height: auto;
-    /* background-color: gold; */
-     /* border-color: black;
-     border: 1px;
-     border-width: 2pt;
-     border-style: solid; */
+    padding-top: 5%;
+    padding-bottom: 8%;
+}
+.member-tile-container-row{
+    position: relative;
+    width: auto;
 }
