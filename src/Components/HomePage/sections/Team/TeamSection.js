@@ -7,7 +7,7 @@ import { Container,Row,Col,Button,Image} from 'react-bootstrap';
 
 function TeamSection() {
   return (
-    <section className="global-section">
+    <section className="team-section">
     {/* <Container>
       <div className="section">
         <div className="row ">
@@ -44,12 +44,12 @@ function TeamSection() {
                     <Col lg={6} md={12} sm={12} className="first">
                         <h1 className="desktop-header"><h1 className="section-heading">Who are <span style={{ color: "#008000" }}>we</span></h1></h1>
                         
-                        <p className="team-para">We are a group of designers, developers, managers
-                          and writers who come around the table to bring
-                          a change. We love to innovate, ideate and
-                          build technical solutions to common day to day
-                          life problems. We also organise webinars and
-                          workshops to inculcate a culture of technology.
+                        <p className="team-para">We are a  community  of designers, developers, managers
+                        and writers who throw in together to bring
+                        in a  reformation. We love to innovate, ideate and
+                        build technical solutions to the everyday 
+                        life problems. To inculcate the culture of technology,we organise various 
+                        workshops and webinars. At DSC we work with a zeal to bring the best from the best.
                         </p>
                         <div className="align-btn">
                           <Button className="team-button">Meet the team</Button>

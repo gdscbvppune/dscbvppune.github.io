@@ -1,63 +1,44 @@
 import React from 'react';
-import teamImage from '../../../../Assets/Images/teamImage.png';
+import eventImage from '../../../../Assets/Images/event-img.png';
 import '../../HomeLeftSection.css';
-import '../../sections/Hero/HeroSection.css'; 
+import '../../sections/Hero/HeroSection.css';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 import { Container,Row,Col,Button,Image} from 'react-bootstrap';
+import { render } from '@testing-library/react';
 
 function EventSection() {
-  return (
-    <section className="global-section">
-    {/* <Container>
-      
-      <div className="section">
-        <div className="row ">
 
-          <div className="col-12 ">
-            <h1 className="section-heading"><span style={{ color: "#3366ff" }}>Events</span></h1>
-          </div>
-
-          <div className="col-md-5  order-12 order-md-1 text-aligning">
-
-            <p className="section-description">We are a group of designers, developers, managers
-            and writers who come around the table to bring
-            a change. We love to innovate, ideate and
-            build technical solutions to common day to day
-            life problems. We also organise webinars and
-            workshops to inculcate a culture of technology.
-          </p>
-            
-              <div className="section-button " style={{backgroundColor: "#3366ff"}}>See our events</div>
-            
-          </div>
+    const styleSpan = {
+      fontWeight:"700",
+      letterSpacing:"1.5px"
+    };
 
 
-          <div className="col-md-5  order-1 order-md-12 text-aligning">
-            <img className="section-image" src={teamImage} alt="TEAM IMAGE"></img>
-          </div>
+    return (
 
-        </div>
-      </div>
-    </Container> */}
-
-<Container className="text-center re-order">
-                <Row>
-                    <Col lg={6} md={12} sm={12} className="first">
-                        <h1 className="desktop-header"><h1 className="section-heading" style={{color: "#F9BB08"}}>Events</h1></h1>
-                        <p className="team-para">We are a group of designers, developers, managers and writers who come around the table to bring a change. We love to innovate, ideate and build technical solutions to common day to day life problems. We also organise webinars and workshops to inculcate a culture of technology.
-                        </p>
-                        <div className="align-btn">
-                          <Button className="events-button">See our events</Button>
-                        </div>
-                    </Col>
-                    <Col lg={6} md={12} sm={12} className="Second">
-                    <h1 className="mobile-tab-header"><h1 className="section-heading" style={{color: "#F9BB08"}}>Events</h1></h1>
-                        <Image className="img-fluid hero-image" src={teamImage}></Image>
-                    </Col>
-                </Row>
-            </Container>
-    </section>
-  )
+      <section className="events-section">
+                <Container className="text-center re-order">
+                  <Row>
+                      <Col lg={6} md={12} sm={12} className="first">
+                          <h1 className="desktop-header"><h1 className="section-heading" style={{color: "#F9BB08"}}>Events</h1></h1>
+                          <p className="team-para"><span style={styleSpan}>"Technology is  best when it brings people together".</span><br></br>
+                            We organize numerous events to incite the culture of technology among the students.  Our events provide an opportunity for the university students who are ardent about  developing their skillsets to grow and rise in their fields. Whether it is  a new kid on the block or an advanced developer , our events are an optimal room for sharing ,learning and developing.
+                          </p>
+                          <div className="align-btn">
+                            <Button className="events-button">See our events</Button>
+                          </div>
+                      </Col>
+                      <Col lg={6} md={12} sm={12} className="Second">
+                      <h1 className="mobile-tab-header"><h1 className="section-heading" style={{color: "#F9BB08"}}>Events</h1></h1>
+                          <Image className="img-fluid event-image" src={eventImage} data-alos="fade-left"></Image>
+                      </Col>
+                  </Row>
+              </Container>
+      </section>
+    );
+    
 }
 
 

@@ -1,3 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Google+Sans); 
+
+body{
+    font-family: 'Google Sans' !important;
+}
+
 .home-section{
     /* padding-top: 9rem; */
     height: 100% !important;
@@ -5,7 +11,7 @@
 }
 
 .home-header{
-    font-size: 5rem;
+    font-size: 4rem;
     font-style: normal;
     font-weight: 700;
     line-height: 84px;
@@ -14,14 +20,14 @@
 }
 
 .there-style{
-    color:#1774ff;
+    color:#4183F3;
     text-decoration: underline;
     text-decoration-color: black;
 }
 
 .home-subheader{
-    margin-top: 2rem;
-    font-size: 2.5rem;
+    margin-top: 1.5rem;
+    font-size: 2rem;
     font-style: normal;
     font-weight: 600;
     line-height: 67px;
@@ -30,19 +36,29 @@
 }
 
 .home-para{
-    margin-top: 2rem;
-    font-size: 1.27rem;
+    margin-top: 1rem;
+    font-size: 1.1rem;
     font-style: normal;
     font-weight: 500;
     letter-spacing: 0em;
     text-align: left;
-    /* color: rgb(109, 109, 109); */
+    /* color:#2d2d2d; */
     color:#2d2d2d;
 }
 
 .team-para{
-    margin-top: 2rem;
-    font-size: 1.27rem;
+    margin-top: 1.5rem;
+    font-size: 1.1rem;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0em;
+    color:#2d2d2d;
+    text-align: left !important;
+}
+
+.project-para{
+    margin-top: 1.5rem;
+    font-size: 1.1rem;
     font-style: normal;
     font-weight: 500;
     letter-spacing: 0em;
@@ -51,8 +67,8 @@
 }
 
 .cta-button{
-    margin-top: 2rem;
-    background-color: #1774FF !important;
+    margin-top: 1.5rem;
+    background-color: #4183F3 !important;
     border-radius: 60px !important;
     font-size: 1.1rem !important;
     height:3.3rem;
@@ -64,13 +80,13 @@
 .cta-button:hover{
     transform: scale(1.1);
     background-color: white !important;
-    border-color: #1774ff !important;
-    color: #1774ff !important;
+    border-color: #4183F3 !important;
+    color: #4183F3 !important;
 }
 
 
 .team-button{
-    margin-top: 2rem;
+    margin-top:1.5rem;
     background-color: #008000 !important;
     border-radius: 50px !important;
     height:3.5rem;
@@ -89,8 +105,8 @@
 }
 
 .project-button{
-    margin-top: 2rem;
-    background-color:#ff0000 !important;
+    margin-top: 1.5rem;
+    background-color:#E94335 !important;
     border-radius: 50px !important;
     height:3.5rem;
     font-size: 1.1rem !important;
@@ -108,7 +124,7 @@
 }
 
 .events-button{
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     background-color:#F9BB08!important;
     border-radius: 50px !important;
     height:3.5rem;
@@ -126,6 +142,7 @@
     color: #F9BB08 !important;
 }
 
+
 .align-btn{
     text-align: left;
 }
@@ -136,13 +153,14 @@
 
 .desktop-header{
     display: block !important;
-    font-size: 5rem;
+    font-size: 4rem;
     font-style: normal;
     font-weight: 700 !important;
     line-height: 84px;
     letter-spacing: 0em;
     text-align: left;
 }
+
 
 @Media only screen and (max-width:768px){
 
@@ -163,10 +181,11 @@
       
     .home-section{
          padding: 5rem 1rem 1rem 1rem;
+         margin-top: 2rem;
     }
     
     .home-header{
-        font-size: 2.8rem;
+        font-size: 2.4rem;
         line-height: 1;
     }
 
@@ -189,7 +208,7 @@
         font-weight: 500;
         text-align: left !important;
         letter-spacing: 0em;
-        color: rgb(109, 109, 109);
+        color:#2d2d2d;
     }
 
     .team-para{
@@ -198,13 +217,26 @@
         font-style: normal;
         font-weight: 500;
         letter-spacing: 0em;
-        color: rgb(109, 109, 109);
+        color:#2d2d2d;
         text-align: center !important;
+        padding: 0rem 2rem;
+    }
+
+    
+    .project-para{
+        margin-top: 2rem;
+        font-size: 1rem !important;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0em;
+        color:#2d2d2d;
+        text-align: center !important;
+        padding: 0rem 2rem;
     }
     
     .cta-button{
         margin-top: 2rem;
-        background-color: #1774FF !important;
+        background-color: #4183F3 !important;
         border-radius: 50px !important;
         height:3.5rem;
         font-size: 1.1rem !important;
@@ -216,8 +248,8 @@
     .cta-button:hover{
         transform: scale(1.1);
         background-color: white !important;
-        border-color: #1774ff !important;
-        color: #1774ff !important;
+        border-color: #4183F3 !important;
+        color: #4183F3 !important;
     }
 
     .team-button{
@@ -233,7 +265,7 @@
 
     .project-button{
         margin-top: 2rem;
-        background-color:#ff0000 !important;
+        background-color:#E94335 !important;
         border-radius: 50px !important;
         height:3.5rem;
         font-size: 1.1rem !important;
@@ -244,15 +276,15 @@
     }
 
     .events-button{
-        margin-top: 2rem;
-        background-color:#3366ff!important;
+        margin-top: 1.5rem;
+        background-color:#F9BB08!important;
         border-radius: 50px !important;
         height:3.5rem;
         font-size: 1.1rem !important;
-        border: none;
         width: 14rem;
         font-weight: 700 !important;
         transition: transform .2s;
+        border-color: #F9BB08;
     }
 
     .align-btn{
@@ -260,7 +292,7 @@
     }
 
     .hero-image{
-        margin-top: 2rem;
+        margin-top: 4rem;
     }
 
     .mobile-tab-header{
@@ -268,5 +300,6 @@
         font-size: 2.8rem;
         line-height: 1;
     }
+
     
 }

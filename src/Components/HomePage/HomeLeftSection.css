@@ -9,11 +9,6 @@ html{
     width: 100%;
 }
 
-.global-section{
-    height: 100% !important;
-    padding:4rem 4rem 4rem 4rem !important;
-}
-
 .global-class{
     margin-top: 4%;
 }
@@ -24,8 +19,23 @@ html{
   
 }
 
+.team-section{
+    height: 100% !important;
+    padding:4rem 0rem 2rem 0rem;
+}
+
+.project-section{
+    height: 100% !important;
+    padding:4rem 0rem 2rem 0rem;
+}
+
+.events-section{
+    height: 100% !important;
+    padding:4rem 0rem 2rem 0rem;
+}
+
 .section-heading{
-    font-size: 70px;
+    font-size: 4rem;
     font-weight: 600;
 }
 
@@ -107,11 +117,7 @@ html{
 
 
 @media only screen and (max-width: 768px){
-.global-section{
-    height: 100% !important;
-    margin-top: 2rem;
-    padding:3rem 1rem 1rem 1rem !important;
-}
+
 
 .section{
     margin-bottom: 100px;
