@@ -291,3 +291,14 @@ html{
        font-size: 40px;
     }
 }
+
+
+@Media only screen and (min-width:768px) and (max-width:991px){
+    .Contact-para{
+        text-align: center !important;
+    }
+
+    .social{
+        text-align: center !important;
+    }
+}

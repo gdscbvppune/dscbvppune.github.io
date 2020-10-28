@@ -2,8 +2,6 @@ import React from 'react';
 import eventImage from '../../../../Assets/Images/event-img.png';
 import '../../HomeLeftSection.css';
 import '../../sections/Hero/HeroSection.css';
-import AOS from 'aos';
-import 'aos/dist/aos.css';
 
 import { Container,Row,Col,Button,Image} from 'react-bootstrap';
 import { render } from '@testing-library/react';
