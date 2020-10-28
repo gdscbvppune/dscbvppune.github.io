@@ -1,10 +1,9 @@
 import React from 'react';
-import eventImage from '../../../../Assets/Images/event-img.png';
+import eventImage from '../../../../Assets/Images/events-model.png';
 import '../../HomeLeftSection.css';
 import '../../sections/Hero/HeroSection.css';
 
 import { Container,Row,Col,Button,Image} from 'react-bootstrap';
-import { render } from '@testing-library/react';
 
 function EventSection() {
 
@@ -20,13 +19,13 @@ function EventSection() {
                 <Container className="text-center re-order">
                   <Row>
                       <Col lg={6} md={12} sm={12} className="first">
-                          <h1 className="desktop-header"><h1 className="section-heading" style={{color: "#F9BB08"}}>Events</h1></h1>
+                          <h1 className="desktop-header"><h1 className="section-heading" style={{color: "#4183F3"}}>Events</h1></h1>
                           <p className="team-para"><span style={styleSpan}>"Technology is  best when it brings people together".</span><br></br>
                             We organize numerous events to incite the culture of technology among the students.  Our events provide an opportunity for the university students who are ardent about  developing their skillsets to grow and rise in their fields. Whether it is  a new kid on the block or an advanced developer , our events are an optimal room for sharing ,learning and developing.
                           </p>
-                          <div className="align-btn">
+                          {/* <div className="align-btn">
                             <Button className="events-button">See our events</Button>
-                          </div>
+                          </div> */}
                       </Col>
                       <Col lg={6} md={12} sm={12} className="Second">
                       <h1 className="mobile-tab-header"><h1 className="section-heading" style={{color: "#F9BB08"}}>Events</h1></h1>

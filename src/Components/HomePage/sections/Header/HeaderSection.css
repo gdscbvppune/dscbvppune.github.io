@@ -59,16 +59,12 @@
         background-color: white;
         filter: drop-shadow(0px 2px 10px rgb(214, 214, 214));
     }
-    .nav-header{
-        text-align: left;
-        font-size: 1rem;
-        font-weight: 700;
-    }
-
-    .nav-subheader{
-        text-align: left;
-        font-size: 0.8rem;
-    }
+   .header-chapter-name{
+font-size: 14px;
+   }
+   .header-txt-bold{
+  font-size: 23px;
+   }
 
 
 }
@@ -79,7 +75,7 @@
         width: 50px;
     }
     .header-txt-bold{
-        font-size: 20px;
+        font-size: 18px;
     }
     .header-chapter-name{
         font-size: 10px;
@@ -89,7 +85,7 @@
     }
 }
 
-@media only screen and (max-width:370px){
+@media only screen and (max-width:398px){
   .dsc-logo{
       margin-left: -15px;
   }
@@ -98,4 +94,10 @@
     padding-left: 0px;
 }
   
+.header-txt-bold{
+    font-size: 17px;
+}
+.header-chapter-name{
+    font-size: 9px;
+}
 }
