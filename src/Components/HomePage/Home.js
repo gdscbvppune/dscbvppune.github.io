@@ -1,4 +1,5 @@
 import React from 'react';
+import HeaderSection from './sections/Header/HeaderSection';
 import HeroSection from './sections/Hero/HeroSection';
 import TeamSection from './sections/Team/TeamSection';
 import ProjectSection from './sections/Project/ProjectSection';
@@ -9,7 +10,8 @@ import './HomeLeftSection.css';
 
 function Home() {
     return (
-        <div>
+        <div className="global-class">
+            <HeaderSection />
             <HeroSection />
             <TeamSection />
             <ProjectSection />

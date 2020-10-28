@@ -9,6 +9,10 @@ html{
     width: 100%;
 }
 
+.project-section{
+    text-align: right;
+}
+
 .right-section{
     /* padding: 150px 90px 0px 10px; */
     height: 100%;
@@ -110,6 +114,10 @@ html{
 }
 
 @media only screen and (max-width: 768px){
+
+    .project-section{
+        text-align: center;
+    }
     .right-section{
         padding-top: 10px;
         margin-bottom: 100px;

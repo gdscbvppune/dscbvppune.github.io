@@ -10,17 +10,25 @@ html{
 }
 
 .contact-section{
-    height:100vh;
-}
-
-.global-section{
-    height: 100% !important;
-    padding:5rem 4rem 5rem 4rem;
+    height:100% !important;
+    padding: 4rem 0rem 2rem 0rem;
 }
 
 .contact-right-section{
-    /* padding: 150px 90px 0px 10px; */
-    height: 100%;
+    text-align: left;
+}
+
+.Contact-header{
+    text-align: left;
+}
+
+.Contact-para{
+    margin-top: 2rem;
+    font-size: 1.27rem;
+    font-style: normal;
+    font-weight: 500;
+    color:#2d2d2d;
+    text-align: left !important;
 }
 
 .right-section-heading{
@@ -57,6 +65,37 @@ html{
 .removed-padding{
   margin: 0;
   padding: 0;
+}
+
+.social{
+    text-align: left !important;
+}
+.social a:hover, .social a:visited, .social a:focus{
+    text-decoration: none;
+}
+
+.fab.fa-facebook-f,
+.fab.fa-instagram,
+.fab.fa-linkedin{
+    font-size: 1.7rem;
+    margin: 1rem;
+    display: inline;
+    color: #2d2d2d;
+    text-decoration: none !important;
+}
+
+.fab.fa-facebook-f:hover{
+    text-decoration: none !important;
+    color: #4183F3;
+}
+
+.fab.fa-instagram:hover{
+    color: #E94335;
+}
+
+.fab.fa-linkedin:hover{
+    text-decoration: none !important;
+    color: #F9BB08;
 }
 
 @media only screen and (max-width: 1200px){
@@ -124,9 +163,28 @@ html{
 }
 
 @media only screen and (max-width: 768px){
+
     .contact-right-section{
         padding-top: 10px;
         margin-bottom: 100px;
+    }
+
+    .Contact-header{
+        text-align: center;
+    }
+
+    .Contact-para{
+        margin-top: 2rem;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0em;
+        color:#2d2d2d;
+        text-align: center !important;
+    }
+
+    .social{
+        text-align: center !important;
     }
     
    .right-section-image{
@@ -233,5 +291,16 @@ html{
     }
     .right-section-heading{
        font-size: 40px;
+    }
+}
+
+
+@Media only screen and (min-width:768px) and (max-width:991px){
+    .Contact-para{
+        text-align: center !important;
+    }
+
+    .social{
+        text-align: center !important;
     }
 }
