@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f79c150d.chunk.css",
+    "main.js": "/static/js/main.4ad88b56.chunk.js",
+    "main.js.map": "/static/js/main.4ad88b56.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3a529792.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3a529792.js.map",
+    "static/js/2.316f9b38.chunk.js": "/static/js/2.316f9b38.chunk.js",
+    "static/js/2.316f9b38.chunk.js.map": "/static/js/2.316f9b38.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.57c4e02b77f77a5627004f7efba49fdc.js": "/precache-manifest.57c4e02b77f77a5627004f7efba49fdc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f79c150d.chunk.css.map": "/static/css/main.f79c150d.chunk.css.map",
+    "static/js/2.316f9b38.chunk.js.LICENSE.txt": "/static/js/2.316f9b38.chunk.js.LICENSE.txt",
+    "static/media/contact-model.webp": "/static/media/contact-model.1b0cd58c.webp",
+    "static/media/events-model.webp": "/static/media/events-model.cae1b8c2.webp",
+    "static/media/hero-model.webp": "/static/media/hero-model.c59bdb46.webp",
+    "static/media/projects-model.webp": "/static/media/projects-model.7685d110.webp",
+    "static/media/team-model.webp": "/static/media/team-model.1663637f.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a529792.js",
+    "static/js/2.316f9b38.chunk.js",
+    "static/css/main.f79c150d.chunk.css",
+    "static/js/main.4ad88b56.chunk.js"
+  ]
+}
