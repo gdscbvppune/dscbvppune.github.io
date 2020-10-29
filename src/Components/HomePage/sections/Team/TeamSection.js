@@ -1,8 +1,8 @@
 import React from 'react';
-import teamImage from '../../../../Assets/Images/team-model.png';
+import teamImage from '../../../../Assets/Images/team-model.webp';
 import '../../HomeLeftSection.css';
 import '../../sections/Hero/HeroSection.css'; 
-import { Container,Row,Col,Button,Image} from 'react-bootstrap';
+import { Container,Row,Col,Image} from 'react-bootstrap';
 
 
 function TeamSection() {

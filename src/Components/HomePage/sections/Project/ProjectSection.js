@@ -1,5 +1,5 @@
 import React from 'react';
-import projectImage from '../../../../Assets/Images/projects-model.png';
+import projectImage from '../../../../Assets/Images/projects-model.webp';
 import '../../HomeRightSection.css';
 import '../../HomeLeftSection.css';
 import '../../sections/Hero/HeroSection.css';

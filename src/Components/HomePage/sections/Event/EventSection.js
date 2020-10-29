@@ -1,5 +1,5 @@
 import React from 'react';
-import eventImage from '../../../../Assets/Images/events-model.png';
+import eventImage from '../../../../Assets/Images/events-model.webp';
 import '../../HomeLeftSection.css';
 import '../../sections/Hero/HeroSection.css';
 
