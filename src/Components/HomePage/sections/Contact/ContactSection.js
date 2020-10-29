@@ -21,10 +21,10 @@ function ContactSection() {
                             media networks.
                             </p>
 
-                            <div className="social mt-4">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin"></i></a>
+                            <div className="social mt-8">
+                                <a href="https://www.facebook.com/dsc.pune"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.instagram.com/dscbvppune"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.linkedin.com/company/developer-student-clubs-bvp-pune/"><i class="fab fa-linkedin"></i></a>
                             </div>
                             
                         </Col>
