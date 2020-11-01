@@ -3,6 +3,8 @@ import './HeroSection.css';
 import '../../HomeLeftSection.css';
 import teamImage from '../../../../Assets/Images/hero-model.png';
 import { Container, Row, Col, Button, Image } from 'react-bootstrap';
+import { Link  } from "react-router-dom";
+
 
 function Home() {
     return (
@@ -18,8 +20,10 @@ function Home() {
                         build technical solutions to the everyday
                         life problems. To inculcate the culture of technology,we organise various
                          workshops and webinars. At DSC we work with a zeal to bring the best from the best. </p>
-
-                        {/* <Button className="cta-button">Hack BVP</Button> */}
+                        <Link to="/hackathon">
+                        <Button className="cta-button">Ode To Code</Button>
+                        </Link>
+                        
                     </Col>
                     <Col lg={6} md={12} sm={12}>
                         <Image className="img-fluid hero-image" src={teamImage} ></Image>

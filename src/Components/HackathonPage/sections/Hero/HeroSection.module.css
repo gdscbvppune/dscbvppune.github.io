@@ -1,0 +1,131 @@
+
+.herosection{
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  scrollbar-width: none;
+  background: #fff;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+
+  
+  ul {
+    display: flex;
+    min-height: 100vh;
+    max-height: 100vh;
+    width: calc(100vw - 100px);
+    float: right;
+    margin: 0!important;
+    padding: 0; 
+    overflow: hidden;
+    list-style-type: none;
+  }
+  
+  li {
+    flex: 1; 
+    display: flex;
+    align-items: stretch;
+    cursor: pointer;
+    transition: all .5s ease;
+    width: 50px;
+  }
+  li:nth-child(1){
+   background: #fa9b96;
+  }
+
+  li:nth-child(2){
+    
+    background: #ED5391;
+  }
+  li:nth-child(3){
+   
+    background: #F86B64 ;
+  }
+  li:nth-child(4){
+   
+    background: #ED3F58 ;
+  }
+  li:nth-child(5){
+    
+    background:  #8c2d71;
+  }
+ 
+
+    li .sectionTitle {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      width: 100%;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      color: #fff;
+      position: relative;
+    }
+    
+    li .sectionTitle  h2 {
+        margin: 0;
+        font-size: 24px;
+        transform: rotate(-90deg);
+        white-space: nowrap;
+        color: #fff;
+      }
+
+      li .sectionTitle  p {
+        position: absolute;
+        bottom: 10px;
+        margin: 0;
+        font-size: 18px;
+        transform: rotate(-90deg);
+        white-space: nowrap;
+        color: #fff;
+      }
+    
+    
+   li .sectionContent {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      margin: 0;
+      padding: 0;
+      opacity: 0;
+      transition: all .25s .1s ease-out;
+    }
+
+    li.active {
+      flex: 19;
+      cursor: default;
+      width: 100%;
+    } 
+      
+    li.active  .sectionContent {
+        flex: 20;
+        opacity: 1;
+        transform: scaleX(1);
+      }
+
+    li.active .sectionTitle{
+      flex: 1 1 10px;
+    }
+    
+
+    @media only screen and (max-width: 1300px){
+      li .sectionTitle  h2 {
+        font-size: 22px;
+      }
+
+      li .sectionTitle  p {
+        font-size: 16px;
+
+      }
+    }
+
+  
+
+
+    
