@@ -4,16 +4,11 @@
   height: 100vh;
   margin: 0;
   padding: 0;
-  scrollbar-width: none;
   background: #fff;
   box-sizing: border-box;
 }
 
-::-webkit-scrollbar{
-  display: none;
-}
 
-  
   ul {
     display: flex;
     min-height: 100vh;
@@ -48,7 +43,7 @@
   }
   li:nth-child(4){
    
-    background: #ED3F58 ;
+    background: #f05c71 ;
   }
   li:nth-child(5){
     

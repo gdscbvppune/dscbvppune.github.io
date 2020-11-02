@@ -4,7 +4,7 @@ import LandingSection from '../Landing/LandingSection';
 import InfoSection from '../Info/InfoSection';
 import TrackSection from '../Tracks/TrackSection';
 import FaqSection from '../Faq/FaqSection';
-import HackTeam from '../Team/HackTeam';
+import HackSponsors from '../Sponsers/HackSponsors';
 import $ from "jquery";
 
 class HeroSection extends React.Component {
@@ -52,20 +52,20 @@ class HeroSection extends React.Component {
           </li>
           <li>
             <div className={hack.sectionTitle}>
-              <h2><span style={{fontWeight:"700"}}>&lt;</span> FAQ <span style={{fontWeight:"700"}}>&gt;</span></h2>
+              <h2><span style={{fontWeight:"700"}}>&lt;</span> SPONSORS <span style={{fontWeight:"700"}}>&gt;</span></h2>
               <p>04</p>
             </div>
             <div className={hack.sectionContent}>
-            <FaqSection />
+            <HackSponsors />
             </div>
           </li>
           <li>
             <div className={hack.sectionTitle}>
-              <h2><span style={{fontWeight:"700"}}>&lt;</span> TEAM <span style={{fontWeight:"700"}}>&gt;</span></h2>
+              <h2><span style={{fontWeight:"700"}}>&lt;</span> FAQ <span style={{fontWeight:"700"}}>&gt;</span></h2>
               <p>05</p>
             </div>
             <div className={hack.sectionContent}>
-            <HackTeam />
+            <FaqSection />
             </div>
           </li>
         </ul>
