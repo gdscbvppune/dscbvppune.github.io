@@ -1,10 +1,10 @@
 import React from 'react';
-import projectImage from '../../../../Assets/Images/projects-model.png';
+import projectImage from '../../../../Assets/Images/projects-model.webp';
 import '../../HomeRightSection.css';
 import '../../HomeLeftSection.css';
 import '../../sections/Hero/HeroSection.css';
 
-import { Container, Row, Col, Button, Image } from 'react-bootstrap';
+import { Container, Row, Col, Image } from 'react-bootstrap';
 
 function TeamSection() {
   return (
@@ -19,7 +19,7 @@ function TeamSection() {
           </Col>
           <Col lg={6} md={12} sm={12} className="first">
           <h1 className="desktop-header"><h1 className="project-header section-heading">Our <span style={{ color: "#E94335" }}>projects</span></h1></h1>
-                        <p className="project-para">DSC-BVP Pune has always strived to create and establish projects that have a long-lasting impact, and try to solve 
+                        <p className="project-para">DSC BVP Pune has always strived to create and establish projects that have a long-lasting impact, and try to solve 
                         problems that we often come across as students or professionals. Since the club's inception in 2019, we have worked on 
                         numerous projects, be it Web Development or App Development to develop solutions to real life problems. 
                         </p>

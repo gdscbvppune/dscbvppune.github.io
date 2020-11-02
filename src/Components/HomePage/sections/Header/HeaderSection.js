@@ -1,7 +1,7 @@
 import React from 'react';
 import './HeaderSection.css';
 import logo from '../../../../Assets/Images/dsc-logo.png';
-import { Navbar, Row, Col } from "react-bootstrap";
+import { Navbar } from "react-bootstrap";
 
 function HeaderSection() {
     return (
