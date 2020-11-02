@@ -19,7 +19,7 @@ function EventSection() {
                 <Container className="text-center re-order">
                   <Row>
                       <Col lg={6} md={12} sm={12} className="first">
-                          <h1 className="desktop-header"><h1 className="section-heading" style={{color: "#4183F3"}}>Events</h1></h1>
+                          <h1 className="desktop-header section-heading" style={{color: "#4183F3"}}>Events</h1>
                           <p className="team-para"><span style={styleSpan}>"Technology is  best when it brings people together".</span><br></br>
                             We organize numerous events to incite the culture of technology among the students. Our events provide an opportunity for the university students who are ardent about developing their skillsets to grow and rise in their fields. Whether it is a new kid on the block or an advanced developer, our events are an optimal room for sharing, learning and developing.
                           </p>
@@ -28,7 +28,7 @@ function EventSection() {
                           </div> */}
                       </Col>
                       <Col lg={6} md={12} sm={12} className="Second">
-                      <h1 className="mobile-tab-header"><h1 className="section-heading" style={{color: "#F9BB08"}}>Events</h1></h1>
+                      <h1 className="section-heading mobile-tab-header" style={{color: "#F9BB08"}}>Events</h1>
                           <Image className="img-fluid event-image" src={eventImage} data-alos="fade-left"></Image>
                       </Col>
                   </Row>

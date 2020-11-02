@@ -12,19 +12,19 @@ function ContactSection() {
                     <Row>
                         
                         <Col lg={6} md={12} sm={12} className="second">
-                        <h1 className="mobile-tab-header"><h1 className="Contact-header section-heading">Contact <span style={{ color: "#F9BB08" }}>Us</span></h1></h1>
+                        <h1 className="mobile-tab-header Contact-header section-heading">Contact <span style={{ color: "#F9BB08" }}>Us</span></h1>
                             <Image className="img-fluid hero-image" src={contactImage}></Image>
                         </Col>
                         <Col lg={6} md={12} sm={12} className="first">
-                            <h1 className="desktop-header"><h1 className="Contact-header section-heading">Contact <span style={{ color: "#F9BB08" }}>Us</span></h1></h1>
+                            <h1 className="desktop-header Contact-header section-heading">Contact <span style={{ color: "#F9BB08" }}>Us</span></h1>
                             <p className="Contact-para">Feel free to reach out to us using any of <br></br>the social
                             media networks.
                             </p>
 
                             <div className="social mt-8">
-                                <a href="https://www.facebook.com/dsc.pune"><i class="fab fa-facebook-f"></i></a>
-                                <a href="https://www.instagram.com/dscbvppune"><i class="fab fa-instagram"></i></a>
-                                <a href="https://www.linkedin.com/company/developer-student-clubs-bvp-pune/"><i class="fab fa-linkedin"></i></a>
+                                <a href="https://www.facebook.com/dsc.pune"><i className="fab fa-facebook-f"></i></a>
+                                <a href="https://www.instagram.com/dscbvppune"><i className="fab fa-instagram"></i></a>
+                                <a href="https://www.linkedin.com/company/developer-student-clubs-bvp-pune/"><i className="fab fa-linkedin"></i></a>
                             </div>
                             
                         </Col>

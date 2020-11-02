@@ -16,7 +16,7 @@ function App() {
         <Route path="/" exact>
           <Home />
         </Route>
-        <Route path="/hackathon">
+        <Route path="/OdeToCode">
           <Hackathon />
         </Route>
         {/* <Route path="/team">
