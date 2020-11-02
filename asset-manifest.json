@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.420b2d75.chunk.css",
-    "main.js": "/static/js/main.95e4550f.chunk.js",
-    "main.js.map": "/static/js/main.95e4550f.chunk.js.map",
+    "main.css": "/static/css/main.46882563.chunk.css",
+    "main.js": "/static/js/main.c9bc83fa.chunk.js",
+    "main.js.map": "/static/js/main.c9bc83fa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3a529792.js",
     "runtime-main.js.map": "/static/js/runtime-main.3a529792.js.map",
     "static/js/2.83b7ab39.chunk.js": "/static/js/2.83b7ab39.chunk.js",
     "static/js/2.83b7ab39.chunk.js.map": "/static/js/2.83b7ab39.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.43fdabc76ef53230d39aa64e691f73db.js": "/precache-manifest.43fdabc76ef53230d39aa64e691f73db.js",
+    "precache-manifest.34ac107ad9d48524c163fba71a7a82d0.js": "/precache-manifest.34ac107ad9d48524c163fba71a7a82d0.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.420b2d75.chunk.css.map": "/static/css/main.420b2d75.chunk.css.map",
+    "static/css/main.46882563.chunk.css.map": "/static/css/main.46882563.chunk.css.map",
     "static/js/2.83b7ab39.chunk.js.LICENSE.txt": "/static/js/2.83b7ab39.chunk.js.LICENSE.txt",
     "static/media/OTC.png": "/static/media/OTC.ae4907e3.png",
     "static/media/Portis_Logo.png": "/static/media/Portis_Logo.54370995.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.3a529792.js",
     "static/js/2.83b7ab39.chunk.js",
-    "static/css/main.420b2d75.chunk.css",
-    "static/js/main.95e4550f.chunk.js"
+    "static/css/main.46882563.chunk.css",
+    "static/js/main.c9bc83fa.chunk.js"
   ]
 }
