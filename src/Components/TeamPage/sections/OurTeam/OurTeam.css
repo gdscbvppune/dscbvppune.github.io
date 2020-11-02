@@ -1,0 +1,40 @@
+  
+.container{
+    padding-top: 5%;
+    position: relative;
+    /* left: 10%; */
+    /* height: min-content; */
+}
+.column{
+      text-align: right;
+      padding-top: 0px;
+      width: fit-content;
+      height: min-content;
+  }
+
+
+.sub{
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #838383;
+    padding-top: 16px;
+}
+
+.home{
+    font-size: 69px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 84px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.there-text-style{
+    color:#1774ff;
+}
+
+.text-left{
+    text-align: left;
+}
