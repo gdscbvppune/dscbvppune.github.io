@@ -107,6 +107,21 @@
     li.active .sectionTitle{
       flex: 1 1 10px;
     }
+
+
+
+
+    
+
+.mobileheroSection{
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  box-sizing: border-box;
+}
+
     
 
     @media only screen and (max-width: 1300px){
@@ -120,7 +135,20 @@
       }
     }
 
+    /* COPY HERE */
+    @media only screen and (min-width: 992px){
+      .mobileheroSection{
+        display: none;
+      }
+    }
+    @media only screen and (max-width: 991px){
+      .herosection{
+        display: none;
+      }
+    }
   
+
+
 
 
     

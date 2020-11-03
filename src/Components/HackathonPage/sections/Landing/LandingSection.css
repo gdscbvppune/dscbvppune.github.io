@@ -73,3 +73,51 @@
     font-size: 22px;
     }
 }
+
+
+
+
+
+
+/* COPY HERE */
+
+@media only screen and (max-width: 991px){
+    .landing-section{
+        height: 100vh;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .hackathon-logo{
+        margin-top: 50px;
+     min-width: 400px;
+    }
+    .button-section{
+        position: absolute;
+        bottom: 50px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-right: 0px;
+       }
+}
+
+@media only screen and (max-width: 480px){
+    .hackathon-logo{
+        margin-top: 100px;
+     min-width: 300px;
+    }
+    .button-section{
+        position: absolute;
+        bottom: 50px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-right: 0px;
+       }
+}
+

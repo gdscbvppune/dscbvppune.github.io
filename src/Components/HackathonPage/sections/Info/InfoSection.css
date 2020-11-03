@@ -46,3 +46,66 @@
         font-size: 1.3vw;
     }
 }
+
+
+
+
+/* COPY HERE */
+
+@media only screen and (max-width: 991px){
+    .info-section{
+        width: 100%;
+        height: 100%;
+        background: #ED5391;
+        padding: 70px;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    
+    .info-title{
+        color: #fcb9b6;
+        font-size: 44px;
+        font-weight: 700;
+    }
+    
+    .info-section p{
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 530px){
+    .info-section{
+        width: 100%;
+        height: 100%;
+        background: #ED5391;
+        padding: 70px;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    
+    .info-title{
+        color: #fcb9b6;
+        font-size: 34px;
+        font-weight: 700;
+    }
+    
+    .info-section p{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 470px){
+    .info-section{
+        width: 100%;
+        height: 100%;
+        background: #ED5391;
+        padding: 70px 40px 40px 30px;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    .info-title{
+        color: #fcb9b6;
+        font-size: 30px;
+        font-weight: 700;
+    }
+}

@@ -19,21 +19,11 @@ class HeroSection extends React.Component {
     section.on('click', toggleAccordion);
   }
 
-
-
-  
   render() {
   
 
-    // var laptopDesign = document.getElementsByClassName(hack.herosection);
-    // if(window.innerWidth < 991){
-    //   laptopDesign.style.display = "none";
-    // }
-    // else{
-
-    // }
-
     return (
+      <div>
       <div className={hack.herosection}>
         <ul>
         <li className={hack.active}>
@@ -83,9 +73,21 @@ class HeroSection extends React.Component {
           </li>
         </ul>
       </div>
-      // <div className="mobile-heroSection">
 
-      // </div>
+
+      {/* COPY HERE */}
+      <div className={hack.mobileheroSection} >
+        <div className={hack.mobileSections}>
+          <LandingSection />
+          <InfoSection />
+          <TrackSection />
+          <HackSponsors />
+          <FaqSection />
+          
+        </div>
+      </div>
+
+      </div>
     )
   }
 }

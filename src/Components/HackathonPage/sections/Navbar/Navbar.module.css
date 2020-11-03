@@ -9,6 +9,7 @@
      justify-content: space-between;
      align-items: center;
      flex-direction: column;
+     z-index: 10;
      
 }
 
@@ -106,14 +107,20 @@
    
 }
 
+/* CHANGE HERE */
+
 @media only screen and (max-width: 380px){
    
    .navbartext p{
-       margin-left: -5px;
+       margin-left: -15px;
    }
-   .logo{
-       position: absolute;
-       top: 10px;
-       left: 10px;
-   }
+ 
+}
+
+
+
+@media only screen and (max-width: 360px){
+    .navbartext p{
+        margin-left: -24px;
+    }
 }
