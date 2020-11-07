@@ -1,7 +1,6 @@
 import React from 'react'
 import "./Event.css"
-
-import { Button }  from 'reactstrap'
+import { Button } from 'react-bootstrap'
 
 function EventCard(props) {
     return (
@@ -12,7 +11,7 @@ function EventCard(props) {
 
             <div className="event__date">
                 <span className="event__date__logo">
-                <i class="fa fa-calendar" aria-hidden="true"></i>
+                    <i className="fa fa-calendar" aria-hidden="true"></i>
                 </span>
                 <span className="event__date__date">
                     <p>date and time</p>
@@ -22,15 +21,15 @@ function EventCard(props) {
             <div className="event__last">
                 <div className="event__author">
                     <span className="event__author__logo">
-                    <i class="fa fa-calendar" aria-hidden="true"></i>
+                        <i className="fa fa-calendar" aria-hidden="true"></i>
                     </span>
                     <span className="event__author__name">
                         <p>author name</p>
                     </span>
                 </div>
                 <div className="event__rsvp">
-                   <Button variant="contained" color="primary">
-                       RSVP
+                    <Button variant="contained" color="primary">
+                        RSVP
                    </Button>
                 </div>
             </div>

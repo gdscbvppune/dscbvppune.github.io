@@ -31,8 +31,9 @@ function Event() {
 
       </div>
 
-      {display.map(dis => (
-        <EventCard info={dis}/>
+      {display.map( (dis, key) => (
+        
+         <EventCard info={dis} key={key}/>
       ))}
     </div>
   );
