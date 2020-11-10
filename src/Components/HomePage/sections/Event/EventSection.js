@@ -3,7 +3,7 @@ import eventImage from '../../../../Assets/Images/events-model.webp';
 import '../../HomeLeftSection.css';
 import '../../sections/Hero/HeroSection.css';
 import {  Link } from 'react-router-dom' 
-import { Container, Row, Col, Image, Button } from 'react-bootstrap';
+import { Container, Row, Col, Image } from 'react-bootstrap';
 
 function EventSection() {
 
@@ -24,9 +24,9 @@ function EventSection() {
                             We organize numerous events to incite the culture of technology among the students. Our events provide an opportunity for the university students who are ardent about developing their skillsets to grow and rise in their fields. Whether it is a new kid on the block or an advanced developer, our events are an optimal room for sharing, learning and developing.
                           </p>
             <Link to="/event">
-              <div className="align-btn">
+              {/* <div className="align-btn">
                 <Button className="events-button">See our events</Button>
-              </div>
+              </div> */}
             </Link>
 
           </Col>

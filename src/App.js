@@ -2,7 +2,7 @@ import React from 'react';
 import Home from './Components/HomePage/Home'
  import Hackathon from './Components/HackathonPage/Hackathon';
 // import Team from './Components/TeamPage/Team';
-import Event from './Components/EventPage/Event';
+// import Event from './Components/EventPage/Event';
 import {
   BrowserRouter as Router,
   Switch,
@@ -12,7 +12,7 @@ import {
 
 function App() {
   return (
-    <Router>
+    <Router  basename={process.env.PUBLIC_URL}>
       <Switch >
         <Route path="/" exact>
           <Home />
@@ -23,9 +23,9 @@ function App() {
         {/* <Route path="/team">
         <Team />
       </Route> */}
-      <Route path="/event">
+      {/* <Route path="/event">
         <Event />
-      </Route>
+      </Route> */}
       </Switch>
     </Router>
 
