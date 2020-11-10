@@ -1,5 +1,6 @@
 {
   "name": "dsc-pune-website",
+  "homepage": "https://dscbvppune.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
