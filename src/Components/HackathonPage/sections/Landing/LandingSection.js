@@ -4,6 +4,24 @@ import './LandingSection.css';
 
 class LandingSection extends React.Component {
 
+
+    componentDidMount = () => {
+        window.onload = this.loadApplyNowScript();
+      };
+    
+      loadApplyNowScript = () => {
+        const script = document.createElement('script');
+        script.src = 'https://apply.devfolio.co';
+        script.async = true;
+        document.body.appendChild(script);
+    
+        script.onload = this.handleLoad;
+      };
+    
+      handleLoad = () => {
+        new window.Devfolio({ key: 'odetocode', buttonSelector: '#devfolio-apply-now' });
+      };
+
     render() {
         return (
             <div className="landing-section">
@@ -16,13 +34,7 @@ class LandingSection extends React.Component {
 
 
             </div>
-
-
-
-
-
-
-        )
+        );
     }
 }
 
