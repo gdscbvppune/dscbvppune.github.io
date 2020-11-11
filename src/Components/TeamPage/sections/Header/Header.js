@@ -1,6 +1,6 @@
 import React from "react";
 import "./Header.css"
-import logoPng from '../../../../Assets/Images/dsc-logo.png';
+import logoPng from '../../../../Assets/Images/logoPng.png';
 import { Container, Row, Col, Button, Image } from 'react-bootstrap';
 
 class Header extends React.Component {

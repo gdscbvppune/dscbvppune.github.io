@@ -1,4 +1,8 @@
   
+body{
+    font-family: 'Google Sans' !important;
+}
+
 .container{
     padding-top: 5%;
     position: relative;
@@ -14,21 +18,21 @@
 
 
 .sub{
-    font-size: 26px;
-    font-weight: 700;
-    line-height: 20px;
+    color: #2d2d2d;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
     letter-spacing: 0em;
-    color: #838383;
-    padding-top: 16px;
+    text-align: center;
 }
 
 .home{
-    font-size: 69px;
+    font-size: 4rem;
     font-style: normal;
     font-weight: 700;
     line-height: 84px;
     letter-spacing: 0em;
-    text-align: left;
+    text-align: center;
 }
 
 .there-text-style{
@@ -37,4 +41,28 @@
 
 .text-left{
     text-align: left;
+}
+
+
+/* --------------------------------------------- */
+
+.our-team{
+    margin-top: 5rem;
+}
+
+@media only screen and (max-width:768px){
+    .our-team{
+        margin-top: 5.5rem;
+    }
+
+    .sub{
+        font-size:1.1rem;
+        margin-bottom: 1rem;
+        margin-top: -1rem;
+    }
+    
+    .home{
+        font-size: 3rem;
+        font-weight: 700 !important;
+    }
 }

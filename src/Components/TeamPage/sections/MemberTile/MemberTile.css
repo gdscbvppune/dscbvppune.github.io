@@ -1,8 +1,25 @@
-  
-.member-tile-column{
-    padding-top: 50pt;
-    position: absolute;
+body{
+    overflow-x: hidden;
 }
+
+.profile-col{
+    display: inline-block !important;
+}
+
+.member-card{
+    text-align: center !important;
+    margin: 0 auto !important;  
+    border: none !important;
+    width: 80%;
+    height: 100% !important;
+    filter: drop-shadow(2px 5px 10px rgb(235, 235, 235)) !important;
+}
+
+
+.main-padding{
+    padding:1.5rem;
+}
+
 .member-image{
     /* background-color: yellow; */
     height: 80pt;
@@ -14,19 +31,21 @@
     text-align: center;
 }
 
+
 .member-name{
-    font-weight: 700;
-    color: #000000;
-    font-size: 25pt;
+    font-weight: 700 !important;
+    color: #2d2d2d;
+    font-size: 1.8rem !important;
+    text-align: center !important;
     text-align: center;
-    padding-top: 15pt;
 }
 .member-domain{
+    margin-top: -0.7rem;
     font-weight: 500;
-    color: #B1B1B1;
-    font-size: 15pt;
-    text-align: center;
-
+    color: grey;
+    font-size: 1.2rem;
+    text-align: center !important;
+    padding:0rem;
 }
 .social-media{
         padding: 5pt;
@@ -38,22 +57,39 @@
 }
 .social-media-row{
     vertical-align: bottom;
-    align-items: center;
-    max-height: 20pt;
-    max-width: 100%;
-
+    width: auto ;
+    text-align: center !important;
+    background-color: green !important;
+    border:none !important;
 }
+
+.social-teams{
+    text-align: center !important;
+    padding: 0rem !important;
+}
+
+.card-footer{
+    border:none !important;
+}
+
+.bottom-social{
+    
+    padding: 0.2rem !important;
+}
+
+.team-social{
+    margin-left: 0rem;
+}
+
+/* .pImage-padding{
+    padding:0.5rem 0rem 0.5rem 1rem;
+} */
+
 .profileImage{
-    height: 20vmin;
-    width: 20vmin;
+    height: 10rem !important;
+    width: 10rem !important;
     pointer-events: none;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    align-content: center;
-    align-self: center;
-    align-content: center;
-    align-items: center;
+    padding: 0.3rem;
 
 }
 img {
@@ -68,4 +104,27 @@ img {
     float: left;
     margin: 3px;
     padding: 3px;
+}
+
+
+@media only screen and (max-width:768px){
+    .global-class{
+        margin-top: 4%;
+    }
+
+    .grid{
+        margin:0rem 0 0rem 1rem!important;
+    }
+    .member-card{
+        margin: 0 auto !important;  
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .member-name{
+        font-size: 1.5rem !important;
+    }
+    .member-domain{
+        font-size: 0.9rem;
+    }
 }

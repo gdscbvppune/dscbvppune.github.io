@@ -1,17 +1,20 @@
 import React from 'react';
-import Header from './sections/Header/Header.js';
+import Header from '../HomePage/sections/Header/HeaderSection';
+import Footer from '../HomePage/sections/Footer/FooterSection';
 import OurTeam from './sections/OurTeam/OurTeam.js';
 import Members from './sections/Members/Members.js';
-import { Container, Row, Col, Button, Image } from 'react-bootstrap';
+import './HomeLeftSection.css';
+import '../HomePage/sections/Header/HeaderSection.css'
+import "../TeamPage/sections/MemberTile/MemberTile.css";
 
 function Team() {
     return (
-        <Col>
+        <div>
             <Header/>
             <OurTeam/>
             <Members/>
-        </Col>
-
+            <Footer />
+        </div>
     )
 }
 

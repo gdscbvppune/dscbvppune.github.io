@@ -76,7 +76,8 @@ html{
 
 .fab.fa-facebook-f,
 .fab.fa-instagram,
-.fab.fa-linkedin{
+.fab.fa-linkedin,
+.fab.fa-github{
     font-size: 1.7rem;
     margin: 1rem;
     display: inline;
