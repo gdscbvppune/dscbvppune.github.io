@@ -17,6 +17,13 @@
     text-align: center;
   
 }
+.hack-team-section h3{
+    font-size: 35px;
+    color:#541b44 ;
+    font-weight: 700;
+    text-align: center;
+  
+}
 
 .devfolio-sponsors-logo{
     margin-top: 50px;
@@ -38,6 +45,11 @@
     .sponsors-logo{
         margin: 50px 50px 50px 50px;
     }
+    .hack-team-section h3{
+        font-size: 30px;
+      
+    }
+    
 }
 
 
@@ -54,6 +66,8 @@
         text-align: center;
       
     }
+
+    
     
     .devfolio-sponsors-logo{
         margin-top: 50px;
@@ -75,6 +89,10 @@
         color:#541b44 ;
         font-weight: 700;
         text-align: center;
+      
+    }
+    .hack-team-section h3{
+        font-size: 25px;
       
     }
     
@@ -107,6 +125,10 @@
         color:#541b44 ;
         font-weight: 700;
         text-align: center;
+      
+    }
+    .hack-team-section h3{
+        font-size: 23px;
       
     }
     

@@ -17,7 +17,7 @@ class LandingSection extends React.Component {
     
         script.onload = this.handleLoad;
       };
-    
+  
       handleLoad = () => {
         new window.Devfolio({ key: 'odetocode', buttonSelector: '#devfolio-apply-now' });
       };

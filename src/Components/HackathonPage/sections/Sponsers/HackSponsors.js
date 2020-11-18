@@ -10,6 +10,10 @@ import echoAR_Logo from '../../../../Assets/Images/OdeToCode/echoAR-sponsor.png'
 import replit_Logo from '../../../../Assets/Images/OdeToCode/replit-sponsor.png';
 import jetbrains_Logo from '../../../../Assets/Images/OdeToCode/jetbrains-sponsor.png';
 import linode_Logo from '../../../../Assets/Images/OdeToCode/linode-sponsor.png';
+import codeAsylums_Logo from '../../../../Assets/Images/OdeToCode/code-asylyms-comm.png';
+import commudle_Logo from '../../../../Assets/Images/OdeToCode/commudle-logo-comm.png';
+import GMC_Logo from '../../../../Assets/Images/OdeToCode/GMC_logo-comm.png';
+import merge_Logo from '../../../../Assets/Images/OdeToCode/merge-comm.png';
 
 function HackSponsors() {
     return (
@@ -89,6 +93,49 @@ function HackSponsors() {
                     <a href="https://linode.com/" target="_blank" rel="noopener noreferrer" >
                         <img src={linode_Logo} alt="linode" className="sponsors-logo" ></img>
                     </a>
+                </div>
+
+            </div>
+
+            <br></br>
+            <br></br>
+            <br></br>
+
+            <div className="row">
+                <div className="col-6 text-center">
+                    <h3>
+                        Community Partner
+          </h3>
+                  
+                        <img src={codeAsylums_Logo} alt="codeAsylums_Logo" className="sponsors-logo" ></img>
+                   
+                </div>
+                <div className="col-6 text-center">
+                    <h3>
+                        Platform partner
+          </h3>
+                    
+                        <img src={commudle_Logo} alt="commudle_Logo" className="sponsors-logo"  ></img>
+                   
+                </div>
+
+            </div>
+            <div className="row">
+                <div className="col-6 text-center">
+                    <h3>
+                       Certification partner
+          </h3>
+                   
+                        <img src={GMC_Logo} alt="GMC_Logo" className="sponsors-logo" ></img>
+                
+                </div>
+                <div className="col-6 text-center">
+                    <h3>
+                    Internship partner
+          </h3>
+                    
+                        <img src={merge_Logo} alt="merge_Logo " className="sponsors-logo"  ></img>
+                   
                 </div>
 
             </div>
