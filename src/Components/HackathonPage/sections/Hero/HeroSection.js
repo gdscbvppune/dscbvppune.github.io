@@ -18,13 +18,12 @@ class HeroSection extends React.Component {
 
     section.on('click', toggleAccordion);
   }
-
-  render() {
   
 
+  render() {
     return (
       <div>
-      <div className={hack.herosection}>
+      <div className={hack.herosection}  >
         <ul>
         <li className={hack.active}>
             <div className={hack.sectionTitle}>
