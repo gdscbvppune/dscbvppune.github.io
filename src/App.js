@@ -12,16 +12,10 @@ import {
 
 function App() {
   return (
-    <Router  basename={process.env.PUBLIC_URL}>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch >
         <Route path="/" exact component={Home} />
         <Route path="/OdeToCode" component={Hackathon} />
-        {/* <Route path="/team">
-        <Team />
-      </Route> */}
-      {/* <Route path="/event">
-        <Event />
-      </Route> */}
       </Switch>
     </Router>
 
