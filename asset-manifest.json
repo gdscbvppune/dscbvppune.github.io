@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd77e6ee.chunk.css",
-    "main.js": "/static/js/main.433b9808.chunk.js",
-    "main.js.map": "/static/js/main.433b9808.chunk.js.map",
+    "main.css": "/static/css/main.072778dc.chunk.css",
+    "main.js": "/static/js/main.812a9019.chunk.js",
+    "main.js.map": "/static/js/main.812a9019.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3a529792.js",
     "runtime-main.js.map": "/static/js/runtime-main.3a529792.js.map",
-    "static/js/2.284e6ada.chunk.js": "/static/js/2.284e6ada.chunk.js",
-    "static/js/2.284e6ada.chunk.js.map": "/static/js/2.284e6ada.chunk.js.map",
+    "static/js/2.8ee06a02.chunk.js": "/static/js/2.8ee06a02.chunk.js",
+    "static/js/2.8ee06a02.chunk.js.map": "/static/js/2.8ee06a02.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0c716ddefdd0f0df4a49c69438c73cfa.js": "/precache-manifest.0c716ddefdd0f0df4a49c69438c73cfa.js",
+    "precache-manifest.bd105ada88d96cbc0459c4d6d65ae461.js": "/precache-manifest.bd105ada88d96cbc0459c4d6d65ae461.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.cd77e6ee.chunk.css.map": "/static/css/main.cd77e6ee.chunk.css.map",
-    "static/js/2.284e6ada.chunk.js.LICENSE.txt": "/static/js/2.284e6ada.chunk.js.LICENSE.txt",
+    "static/css/main.072778dc.chunk.css.map": "/static/css/main.072778dc.chunk.css.map",
+    "static/js/2.8ee06a02.chunk.js.LICENSE.txt": "/static/js/2.8ee06a02.chunk.js.LICENSE.txt",
+    "static/media/GMC_logo-comm.png": "/static/media/GMC_logo-comm.471790c5.png",
     "static/media/OTC.png": "/static/media/OTC.ae4907e3.png",
     "static/media/Portis_Logo.png": "/static/media/Portis_Logo.54370995.png",
+    "static/media/code-asylyms-comm.png": "/static/media/code-asylyms-comm.6cfb7e6a.png",
     "static/media/contact-model.webp": "/static/media/contact-model.1b0cd58c.webp",
     "static/media/echoAR-sponsor.png": "/static/media/echoAR-sponsor.cf675f40.png",
     "static/media/events-model.webp": "/static/media/events-model.cae1b8c2.webp",
@@ -25,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3a529792.js",
-    "static/js/2.284e6ada.chunk.js",
-    "static/css/main.cd77e6ee.chunk.css",
-    "static/js/main.433b9808.chunk.js"
+    "static/js/2.8ee06a02.chunk.js",
+    "static/css/main.072778dc.chunk.css",
+    "static/js/main.812a9019.chunk.js"
   ]
 }
