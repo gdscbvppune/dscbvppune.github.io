@@ -9,14 +9,14 @@ function FaqSection() {
             <div className="hack-faqs">
                 <div className="accordion">
                     <div className="card">
-                        
-                            <a className="card-link" data-toggle="collapse" href=".collapseOne">
+
+                        <a className="card-link" data-toggle="collapse" href=".collapseOne">
                             <div className="card-header">
                                 What does it cost?
                                 </div>
-                            </a>
+                        </a>
 
-                      
+
                         <div className="collapse show collapseOne" data-parent=".accordion">
                             <div className="card-body">
                                 0 bucks!! Yes, it is absolutely chargeless.
@@ -39,27 +39,27 @@ function FaqSection() {
                         </div>
                     </div>
                     <div className="card">
-                       
-                            <a className="collapsed card-link" data-toggle="collapse" href=".collapseThree">
+
+                        <a className="collapsed card-link" data-toggle="collapse" href=".collapseThree">
                             <div className="card-header">
-                                Where can I find updates?
+                                Is there some official platform for communication and asking queries?
                                 </div>
-                    </a>
-                       
-                        <div  className="collapse collapseThree" data-parent=".accordion">
+                        </a>
+
+                        <div className="collapse collapseThree" data-parent=".accordion">
                             <div className="card-body">
-                                Please join our Discord server for updates.
+                                Please join our <a href="http://0x0.st/NaTc" style={{ textDecoration: "none" }} target="_blank" rel="noopener noreferrer">Discord</a> server for updates .
                          </div>
                         </div>
                     </div>
                     <div className="card">
-                        
-                            <a className="collapsed card-link" data-toggle="collapse" href=".collapseFour">
+
+                        <a className="collapsed card-link" data-toggle="collapse" href=".collapseFour">
                             <div className="card-header">
                                 What if I don’t know how to code?
                                 </div>
-                             </a>
-                       
+                        </a>
+
                         <div className="collapse collapseFour" data-parent=".accordion">
                             <div className="card-body">
                                 Well you can always learn! Ode to Code is for anyone and everyone,
@@ -70,14 +70,14 @@ function FaqSection() {
                         </div>
                     </div>
                     <div className="card">
-                       
-                            <a className="collapsed card-link" data-toggle="collapse" href=".collapseFive">
+
+                        <a className="collapsed card-link" data-toggle="collapse" href=".collapseFive">
                             <div className="card-header">
                                 How does judging work?
                                 </div>
-                    </a>
-                      
-                        <div  className="collapse collapseFive" data-parent=".accordion">
+                        </a>
+
+                        <div className="collapse collapseFive" data-parent=".accordion">
                             <div className="card-body">
                                 An esteemed panel of judges with different domains of work experience will be present to
                                 review the projects and the best projects will be selected based on whether they pertain to
@@ -86,29 +86,27 @@ function FaqSection() {
                         </div>
                     </div>
                     <div className="card">
-                        
-                            <a className="collapsed card-link" data-toggle="collapse" href=".collapseSix">
+
+                        <a className="collapsed card-link" data-toggle="collapse" href=".collapseSix">
                             <div className="card-header">
                                 What if I need help to build my project?
                                 </div>
-                    </a>
-                        
+                        </a>
+
                         <div className="collapse collapseSix" data-parent=".accordion">
                             <div className="card-body">
-                                We will provide you with the best of coders and mentors, experienced in various fields and
-                                domains to help you in every step 24/7. An esteemed panel of judges  will also be there for
-                                you to consult.
+                                We will provide you with the best coders and mentors, experienced in various fields and domains to help you in every step 24/7. An esteemed panel of mentors will also be there for you to consult. Do join our <a href="http://0x0.st/NaTc" style={{ textDecoration: "none" }} target="_blank" rel="noopener noreferrer">Discord</a> server for better communications. 
                          </div>
                         </div>
                     </div>
                     <div className="card">
-                       
-                            <a className="collapsed card-link" data-toggle="collapse" href=".collapseSeven">
+
+                        <a className="collapsed card-link" data-toggle="collapse" href=".collapseSeven">
                             <div className="card-header">
                                 How long will the event be for?
                                 </div>
-                    </a>
-                       
+                        </a>
+
                         <div className="collapse collapseSeven" data-parent=".accordion">
                             <div className="card-body">
                                 The event would last for 36 hours, so buckle up cause it's gonna be a fun ride!
@@ -116,27 +114,27 @@ function FaqSection() {
                         </div>
                     </div>
                     <div className="card">
-                       
-                            <a className="collapsed card-link" data-toggle="collapse" href=".collapseEight">
+
+                        <a className="collapsed card-link" data-toggle="collapse" href=".collapseEight">
                             <div className="card-header">
                                 How to submit a project?
                                 </div>
-                    </a>
-                      
+                        </a>
+
                         <div className="collapse collapseEight" data-parent=".accordion">
                             <div className="card-body">
-                                Using DevFolio and Github
+                            Each project should have it's GitHub repository and should be submitted through the DevFolio Dashboard
                          </div>
                         </div>
                     </div>
                     <div className="card">
-                        
-                            <a className="collapsed card-link" data-toggle="collapse" href=".collapseNine">
+
+                        <a className="collapsed card-link" data-toggle="collapse" href=".collapseNine">
                             <div className="card-header">
                                 Is there a code of conduct?
                                 </div>
-                    </a>
-                       
+                        </a>
+
                         <div className="collapse collapseNine" data-parent=".accordion">
                             <div className="card-body">
                                 We take organising and hosting hackathons to have a mutually safe space for everyone

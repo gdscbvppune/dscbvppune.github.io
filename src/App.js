@@ -14,8 +14,10 @@ function App() {
   return (
     <Router basename={process.env.PUBLIC_URL}>
       <Switch >
+       
         <Route path="/" exact component={Home} />
         <Route path="/OdeToCode" component={Hackathon} />
+        {/* <Route path ="/team" component={Team} /> */}
       </Switch>
     </Router>
 
