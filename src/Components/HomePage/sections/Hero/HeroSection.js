@@ -1,7 +1,7 @@
 import React from 'react';
 import './HeroSection.css';
 import '../../HomeLeftSection.css';
-import { Container, Row, Col, Button, Image } from 'react-bootstrap';
+import { Container, Row, Col, Image } from 'react-bootstrap';
 // import { Link  } from "react-router-dom";
 import heroImage from '../../../../Assets/Images/hero-model.webp';
 
