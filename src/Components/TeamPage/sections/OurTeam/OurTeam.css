@@ -3,36 +3,28 @@ body{
     font-family: 'Google Sans' !important;
 }
 
-.container{
+.our-team{
     padding-top: 5%;
-    position: relative;
-    /* left: 10%; */
-    /* height: min-content; */
 }
-.column{
-      text-align: right;
-      padding-top: 0px;
-      width: fit-content;
-      height: min-content;
-  }
 
-
-.sub{
+.team-subheading{
     color: #2d2d2d;
     font-size: 1.5rem;
     font-style: normal;
     font-weight: 400;
     letter-spacing: 0em;
     text-align: center;
+    margin-bottom: 100px;
 }
 
-.home{
+.team-heading{
     font-size: 4rem;
     font-style: normal;
     font-weight: 700;
     line-height: 84px;
     letter-spacing: 0em;
     text-align: center;
+    margin-top: 100px;
 }
 
 .there-text-style{
@@ -43,25 +35,13 @@ body{
     text-align: left;
 }
 
-
-/* --------------------------------------------- */
-
-.our-team{
-    margin-top: 5rem;
-}
-
 @media only screen and (max-width:768px){
-    .our-team{
-        margin-top: 5.5rem;
-    }
-
-    .sub{
+    .team-subheading{
         font-size:1.1rem;
-        margin-bottom: 1rem;
-        margin-top: -1rem;
+        margin-bottom: 50px;
     }
     
-    .home{
+    .team-heading{
         font-size: 3rem;
         font-weight: 700 !important;
     }

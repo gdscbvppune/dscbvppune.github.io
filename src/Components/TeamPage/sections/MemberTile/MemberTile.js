@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import "./MemberTile.css";
 import { Image,  Col,  Card } from 'react-bootstrap';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 class MemberTile extends Component {

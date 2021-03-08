@@ -3,15 +3,12 @@ import Header from '../HomePage/sections/Header/HeaderSection';
 import Footer from '../HomePage/sections/Footer/FooterSection';
 import OurTeam from './sections/OurTeam/OurTeam.js';
 import Members from './sections/Members/Members.js';
-import './HomeLeftSection.css';
-import '../HomePage/sections/Header/HeaderSection.css'
-import "../TeamPage/sections/MemberTile/MemberTile.css";
 
 function Team() {
     return (
         <div>
-            <Header/>
-            <OurTeam/>
+            <Header/> 
+             <OurTeam/>
             <Members/>
             <Footer />
         </div>
