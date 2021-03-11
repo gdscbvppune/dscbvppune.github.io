@@ -2,6 +2,7 @@ import React from 'react';
 import './HeaderSection.css';
 import logo from '../../../../Assets/Images/dsc-logo.png';
 import { Navbar } from "react-bootstrap";
+import { Link } from 'react-router-dom';
 
 function HeaderSection() {
     return (
@@ -11,7 +12,9 @@ function HeaderSection() {
                     <div className="container-fluid padding-removed">
                         <div className="row padding-removed">
                             <div className="col-2">
-                                <img src={logo} className="logo img-fluid" alt="DSC Logo" />
+                                <Link to="/">
+                                    <img src={logo} className="logo img-fluid" alt="DSC Logo" />
+                                </Link>
                             </div>
                             <div className="col-10 padding-removed ">
                                 <div className="row padding-removed">

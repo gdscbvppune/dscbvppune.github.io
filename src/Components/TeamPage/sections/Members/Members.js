@@ -2,18 +2,19 @@ import React,{Component} from "react";
 import "./Members.css"
 import { Container, Row } from 'react-bootstrap';
 import MemberTile from '../MemberTile/MemberTile.js'
-import teams from '../../../../Assets/data/website.json';
+import data from '../../../../Assets/data/website.json';
 
 class Members extends Component{
     render(){
 
         
-        const teamDetails = teams.teams;
+        const teamDetails = data.teams;
+        teamDetails.sort((a, b) => {
+            return parseInt(a.id) - parseInt(b.id);
+        });
 
         const teamMap = teamDetails.map((Data) => (
-        
             <MemberTile key={Data.name} name1={Data.name} pImage={Data.profileImage} des={Data.title} ig={Data.instagram} lk={Data.linkedin} gt={Data.github}/>
-    
         ));
 
         return(

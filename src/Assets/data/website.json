@@ -280,14 +280,13 @@
       }
     },
     "teams": [
-       
         {
         "uid":"0T0kSNr9Iulqbh51gWg6",
         "name": "Priyen Gami",
         "github": "",
         "linkedin": "",
         "team": "Core Team",
-        "id": "9",
+        "id": "6",
         "website": "",
         "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FPriyen%20Gami?alt=media&token=0dcaac16-8848-4935-85e1-422b6e90d5ed",
         "instagram": "",
@@ -309,7 +308,7 @@
       },
       {
         "uid":"5vlLin8DHjRika01zG3H",
-        "id": "6",
+        "id": "3",
         "website": "",
         "linkedin": "",
         "instagram": "",
@@ -322,7 +321,7 @@
       },
       {
         "uid":"6ojKycJbIeGaea83cELH",
-        "id": "14",
+        "id": "11",
         "website": "",
         "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FSanskar%20Gupta?alt=media&token=ef98d935-0d4c-497a-a1b0-cb2b0e10709f",
         "title": "Management Team Lead",
@@ -333,23 +332,10 @@
         "linkedin": "",
         "name": "Sanskar Gupta"
       },
-      {
-        "uid":"DEgk7ObEKUW3yeQtq8eQ",
-        "id": "4",
-        "name": "Vikas Sharma",
-        "title": "Ethical Hacking Lead",
-        "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FVikas%20Sharma?alt=media&token=9b40e753-ea4e-46d5-b777-5d7591201b82",
-        "linkedin": "",
-        "twitter": "",
-        "website": "",
-        "team": "Core Team",
-        "github": "",
-        "instagram": ""
-      },
        {
         "uid":"QvYQwFulArJP7i9McYIL",
         "instagram": "",
-        "id": "13",
+        "id": "10",
         "website": "",
         "linkedin": "",
         "name": "Viplav Anand",
@@ -358,19 +344,6 @@
         "twitter": "",
         "title": "Management Team Lead",
         "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FViplav%20Anand?alt=media&token=9a0ba21e-e9fd-4bb8-874a-5ed4f1c71fea"
-      },
-      {
-        "uid":"UHoIVXIB2c0Wi0VVjJNO" ,
-        "twitter": "",
-        "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FSparsh%20Tandon?alt=media&token=7b5e4d26-d6e8-42ce-a973-918f93e418a5",
-        "website": "",
-        "title": "Web Dev Lead",
-        "instagram": "",
-        "name": "Sparsh Tandon",
-        "github": "",
-        "id": "5",
-        "team": "Core Team",
-        "linkedin": ""
       },
       {
         "uid":"V4g8otDQOe7LD0IKQaTd",
@@ -382,12 +355,12 @@
         "linkedin": "https://www.linkedin.com/in/7wikd/",
         "github": "https://github.com/7wikd",
         "instagram": "https://www.instagram.com/7wikd/",
-        "id": "10",
+        "id": "7",
         "website": "https://satwikdalvi.co/"
       },
       {
         "uid":"VreiU1MP9tUdAH8TbhCh",
-        "id": "8",
+        "id": "5",
         "twitter": "",
         "team": "Core Team",
         "instagram": "",
@@ -402,7 +375,7 @@
         "uid":"W7NmOUnHMztCuaUt5IMB",
         "name": "Alok j Kashyap",
         "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FAlok%20j%20Kashyap?alt=media&token=50976922-b95f-4284-9f4c-3a552ca4983a",
-        "id": "7",
+        "id": "4",
         "team": "Core Team",
         "title": "UI UX Lead",
         "twitter": "",
@@ -415,7 +388,7 @@
         "uid":"exwyA0BTAohdAtasjvwh",
         "title": "Management Team Lead",
         "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FPratham?alt=media&token=4e06a3bd-e4aa-4c92-aafd-c40c00f87e94",
-        "id": "12",
+        "id": "9",
         "name": "Pratham Khandelwal",
         "team": "Core Team",
         "twitter": "",
@@ -458,23 +431,10 @@
         "website": "",
         "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FNandini%20Sahni?alt=media&token=4bfc5485-fb64-43ea-9f27-8a098712c5da",
         "linkedin": "",
-        "id": "11",
+        "id": "8",
         "github": "",
         "instagram": "",
         "team": "Core Team"
-      },
-      {
-        "uid":"joOQSUFm07M7WbkO076E",
-        "name": "Vansh Bhasin",
-        "website": "http://vanshbhasin157.github.io/",
-        "instagram": "https://instagram.com/vanshbhasin157",
-        "twitter": "https://twitter.com/VanshBhasin19",
-        "team": "Core Team",
-        "linkedin": "https://www.linkedin.com/in/vanshbhasin157",
-        "id": "3",
-        "profileImage": "https://firebasestorage.googleapis.com/v0/b/dsc-bvp-pune.appspot.com/o/team%2FVansh%20Bhasin?alt=media&token=04f2213d-cb46-4b10-b368-bed67845b826",
-        "title": "Backend Dev Lead",
-        "github": "https://github.com/vanshbhasin157"
       }
     ]
     }

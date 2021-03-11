@@ -454,3 +454,22 @@ body{
     }
 }
 
+.laptop-viewport{
+    display: inline;
+}
+
+.mobile-viewport{
+    display: none;
+}
+
+@media(max-width: 991px){
+
+    .laptop-viewport{
+        display: none;
+    }
+    
+    .mobile-viewport{
+        display: inline;
+    }
+
+}

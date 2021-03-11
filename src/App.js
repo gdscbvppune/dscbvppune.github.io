@@ -2,7 +2,7 @@ import React from 'react';
 import Home from './Components/HomePage/Home'
 import Hackathon from './Components/HackathonPage/Hackathon';
 import Team from './Components/TeamPage/Team';
-// import Event from './Components/EventPage/Event';
+
 import {
   BrowserRouter as Router,
   Switch,
