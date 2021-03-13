@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.d64ad788.chunk.css",
-    "main.js": "/static/js/main.b4a390e9.chunk.js",
+    "main.css": "/static/css/main.7e55e10f.chunk.css",
+    "main.js": "/static/js/main.79182198.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3a529792.js",
-    "static/js/2.b11411f1.chunk.js": "/static/js/2.b11411f1.chunk.js",
+    "static/js/2.dfa17be3.chunk.js": "/static/js/2.dfa17be3.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.e9717c932f28159570e7623b839eb8e1.js": "/precache-manifest.e9717c932f28159570e7623b839eb8e1.js",
+    "precache-manifest.b0cac7f9c2c7bc1c2e635db150b8c07e.js": "/precache-manifest.b0cac7f9c2c7bc1c2e635db150b8c07e.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.b11411f1.chunk.js.LICENSE.txt": "/static/js/2.b11411f1.chunk.js.LICENSE.txt",
+    "static/js/2.dfa17be3.chunk.js.LICENSE.txt": "/static/js/2.dfa17be3.chunk.js.LICENSE.txt",
     "static/media/GMC_logo-comm.png": "/static/media/GMC_logo-comm.471790c5.png",
     "static/media/OTC.png": "/static/media/OTC.748717c2.png",
     "static/media/Portis_Logo.png": "/static/media/Portis_Logo.54370995.png",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3a529792.js",
-    "static/js/2.b11411f1.chunk.js",
-    "static/css/main.d64ad788.chunk.css",
-    "static/js/main.b4a390e9.chunk.js"
+    "static/js/2.dfa17be3.chunk.js",
+    "static/css/main.7e55e10f.chunk.css",
+    "static/js/main.79182198.chunk.js"
   ]
 }
