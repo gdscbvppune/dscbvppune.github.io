@@ -77,7 +77,8 @@ html{
 .fab.fa-facebook-f,
 .fab.fa-instagram,
 .fab.fa-linkedin,
-.fab.fa-github{
+.fab.fa-github,
+.fab.fa-medium{
     font-size: 1.7rem;
     margin: 1rem;
     display: inline;
@@ -88,15 +89,24 @@ html{
 .fab.fa-facebook-f:hover{
     text-decoration: none !important;
     color: #4183F3;
+    transition: 300ms;
 }
 
 .fab.fa-instagram:hover{
     color: #E94335;
+    transition: 300ms;
 }
 
 .fab.fa-linkedin:hover{
     text-decoration: none !important;
     color: #F9BB08;
+    transition: 300ms;
+}
+
+.fab.fa-medium{
+    text-decoration: none !important;
+    color: #000;
+    transition: 300ms;
 }
 
 @media only screen and (max-width: 1200px){
