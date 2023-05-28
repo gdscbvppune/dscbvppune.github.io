@@ -21,9 +21,9 @@ function ContactSection() {
 
                         <div className="social">
                             <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/dsc.pune"><i className="fab fa-facebook-f"></i></a>
-                            <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/dscbvppune"><i className="fab fa-instagram"></i></a>
+                            <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/gdscbvppune/"><i className="fab fa-instagram"></i></a>
                             <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/developer-student-clubs-bvp-pune/"><i className="fab fa-linkedin"></i></a>
-                            <a target="_blank" rel="noopener noreferrer" href="https://github.com/dscbvppune"><i className="fab fa-github"></i></a>
+                            <a target="_blank" rel="noopener noreferrer" href="https://github.com/gdscbvppune"><i className="fab fa-github"></i></a>
                             <a target="_blank" rel="noopener noreferrer" href="https://dscbvppune.medium.com/"><i className="fab fa-medium"></i></a>
                         </div>
 
